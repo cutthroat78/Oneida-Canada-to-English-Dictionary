@@ -6,7 +6,7 @@ URL = "https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases
 if not os.path.exists("./audio"):
     os.makedirs("./audio")
     
-file = open(Oneida-Dictionary.csv, "a")
+file = open("Oneida-Dictionary.csv", "a")
 
 for page in range(1, 93):
     req = requests.get(URL + str(page) + '/')
