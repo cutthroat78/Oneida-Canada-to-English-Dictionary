@@ -10,7 +10,7 @@ file = open("Oneida-Dictionary.csv", "a")
 
 for page in range(1, 93):
     req = requests.get(URL + str(page) + '/')
-    soup = bs(req.text, 'html.parser')
+    soup = BeautifulSoup(req.text, 'html.parser')
     
     oneida_word = soup.find_all('p', class_= 'oneida')
     english_word = soup.find_all('p', class_= 'english')
