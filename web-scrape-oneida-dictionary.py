@@ -20,7 +20,7 @@ for page in range(1, 93):
       
     # Make CSV and append for page
     for one,eng,url in zip(oneida_word,english_word,audio_links):
-      file.write(str(one.get_text()) + "," + str(eng.get_text()))
+      file.write(str(one.get_text()) + "," + str(eng.get_text()) + "\n")
       r = requests.get(url)
       filename = one.get_text() + ".mp3"
       with open(filename, 'wb') as f:
