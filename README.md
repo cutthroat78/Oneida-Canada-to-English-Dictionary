@@ -9,3 +9,4 @@ The audio folder is full of mp3 recordings of the Oneida words and phrases/side 
 - [ ] Redo csv file but have quotes around both sides
 - [ ] Setup github pages with index.md
 - [ ] Convert CSV to markdown table
+- [ ] Try and get github pages to play mp3 files. If files need to have no spaces, make program replace spaces with -
