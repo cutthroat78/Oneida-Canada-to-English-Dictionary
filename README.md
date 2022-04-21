@@ -1,4 +1,4 @@
-# Oneida (Canada) Dictionary
+# Oneida (Canada) Dictionary of Words and Phrases
 [Github Pages](https://cutthroat78.github.io/Oneida-Canada-Dictionary/)
 
 A CSV Oneida Dictionary with words and Phrases from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
