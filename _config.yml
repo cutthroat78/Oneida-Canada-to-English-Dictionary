@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: "Oneida (Canada) Dictionary"
+description: "A dictionary made from the Oneida Words & Phrases page of oneidalanguage.ca"
+author: "CutThroat78"
+show_downloads: false
+github:
+   is_project_page: false
