@@ -13,5 +13,5 @@ The audio folder is full of mp3 recordings of the Oneida words and phrases/side 
 - [ ] Setup github pages with index.md
 - [ ] Convert CSV to markdown table
 - [ ] Try and get github pages to play mp3 files. If files need to have no spaces, make program replace spaces with "-"
-- [ ] Make documentation on how to use main.py
 - [ ] CSV file is full words and phrases, markdown will have full and sections versions
+- [ ] Redo readme.md and index.md with all info explaining this whole repo (including how to use main.py)
