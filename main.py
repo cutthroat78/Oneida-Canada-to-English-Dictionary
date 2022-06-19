@@ -6,7 +6,7 @@ URL = "https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases
 if not os.path.exists("./audio"):
     os.makedirs("./audio")
     
-file = open("Oneida-Dictionary.csv", "a")
+file = open("Oneida-Words-and-Phrases.csv", "a")
 file.write("Oneida,English\n") # Heading at to say which side is Oneida and which side is English
 
 for page in range(1, 93):
