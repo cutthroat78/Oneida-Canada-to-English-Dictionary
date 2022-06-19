@@ -1,3 +1,7 @@
+# Oneida (Canada) Words & Phrases
+
+This website is full of words & phrases made from the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/
+
 Work in progress, please come back to this page at a later date and it should be fixed right up!
 
 | Oneida                                                                                   | English                                                                        |                                          |                 |
