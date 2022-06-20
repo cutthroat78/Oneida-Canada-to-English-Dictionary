@@ -1,3 +1,5 @@
+[Back to Categories](../index.md)
+
 # All Words and Phrases
 
 | ID | Oneida | English | Audio File |
@@ -15,13 +17,13 @@
 | 11 | Owistóhsehli’ kʌ tesatuhutsyu:ni̲ | do you want butter? | <audio src="../audio/11.mp3" controls></audio> |
 | 12 | tesatuhutsyuni kʌ kʌ́tsi’ | Do you want fish? | <audio src="../audio/12.mp3" controls></audio> |
 | 13 | katuhkályaks kih | I am hungry | <audio src="../audio/13.mp3" controls></audio> |
-| 14 | 2. Hʌ né: ki’ kanutunyúhe̲’ | Yes I’m thinking about it. | <audio src="../audio/14.mp3" controls></audio> |
-| 15 | 6. Hʌ́: né: ki’ í:kehlhe̲’ | Yes, I wanted to. | <audio src="../audio/15.mp3" controls></audio> |
-| 16 | 5. Tʌsnanátalihte’ kʌ khále’ ʌsnatsihalʌ kʌ otsíhkwa̲’ | Are you going to mash potatoes and cook turnips? | <audio src="../audio/16.mp3" controls></audio> |
-| 17 | 4. Hʌ́: se’ wah | I sure am! | <audio src="../audio/17.mp3" controls></audio> |
-| 18 | 3. Sate’wahlutá:ne’ kʌ skawihló:wan̲e̲’ | are you going to roast a turkey? | <audio src="../audio/18.mp3" controls></audio> |
-| 19 | 2. Hʌ́: né: ki’ kanutunyú:he̲’ | yes, I am thinking about it. | <audio src="../audio/19.mp3" controls></audio> |
-| 20 | 1. Satekhwalá:ne’ kʌ ni’isé: tsi’ náhte’ yutanuhelá:tuhe̲’ | Are you going to have a thanksgiving feast? | <audio src="../audio/20.mp3" controls></audio> |
+| 14 | Hʌ né: ki’ kanutunyúhe̲’ | Yes I’m thinking about it. | <audio src="../audio/14.mp3" controls></audio> |
+| 15 | Hʌ́: né: ki’ í:kehlhe̲’ | Yes, I wanted to. | <audio src="../audio/15.mp3" controls></audio> |
+| 16 | Tʌsnanátalihte’ kʌ khále’ ʌsnatsihalʌ kʌ otsíhkwa̲’ | Are you going to mash potatoes and cook turnips? | <audio src="../audio/16.mp3" controls></audio> |
+| 17 | Hʌ́: se’ wah | I sure am! | <audio src="../audio/17.mp3" controls></audio> |
+| 18 | Sate’wahlutá:ne’ kʌ skawihló:wan̲e̲’ | are you going to roast a turkey? | <audio src="../audio/18.mp3" controls></audio> |
+| 19 | Hʌ́: né: ki’ kanutunyú:he̲’ | yes, I am thinking about it. | <audio src="../audio/19.mp3" controls></audio> |
+| 20 | Satekhwalá:ne’ kʌ ni’isé: tsi’ náhte’ yutanuhelá:tuhe̲’ | Are you going to have a thanksgiving feast? | <audio src="../audio/20.mp3" controls></audio> |
 | 21 | kakhwahé:le̲’ | feast | <audio src="../audio/21.mp3" controls></audio> |
 | 22 | kahwa:tsí:le̲’ | family | <audio src="../audio/22.mp3" controls></audio> |
 | 23 | loti’khwaká:te̲’ | they have lots of food | <audio src="../audio/23.mp3" controls></audio> |
@@ -33,7 +35,7 @@
 | 29 | otsíhkwa̲’ | turnip | <audio src="../audio/29.mp3" controls></audio> |
 | 30 | onu’uslakó: wá:yat | pumpkin pie | <audio src="../audio/30.mp3" controls></audio> |
 | 31 | o:nʌstáse’ wʌhnitatati | month of new corn | <audio src="../audio/31.mp3" controls></audio> |
-| 32 | 1. Tho niyotityóhwake’ nén oshaheta̲ | 1. How many groups of beans is there? | <audio src="../audio/32.mp3" controls></audio> |
+| 32 | Tho niyotityóhwake’ nén oshaheta̲ | 1. How many groups of beans is there? | <audio src="../audio/32.mp3" controls></audio> |
 | 33 | shakotiyenashn̲e̲ | police station | <audio src="../audio/33.mp3" controls></audio> |
 | 34 | yutenata’asta̲ | gas station | <audio src="../audio/34.mp3" controls></audio> |
 | 35 | latinakle’ tehutlásta’ | community centre | <audio src="../audio/35.mp3" controls></audio> |
@@ -54,12 +56,12 @@
 | 50 | Takʌ’ nʌsa’nikulyak | Don't give up! | <audio src="../audio/50.mp3" controls></audio> |
 | 51 | Té:sek | You pick it up | <audio src="../audio/51.mp3" controls></audio> |
 | 52 | Hanyo! Hanyo! | Come on! Come on! | <audio src="../audio/52.mp3" controls></audio> |
-| 53 | 6. Onkwat káti kʌ nén siksik otahsa̲’ | Is the mullen used for medicine? | <audio src="../audio/53.mp3" controls></audio> |
-| 54 | 5. Náhte’ né: onukwat nén olhohte’kó: | What do you use burdock as a medicine for? | <audio src="../audio/54.mp3" controls></audio> |
-| 55 | 4. Ihseks kʌ nise: nén onitshewʌ́:ta̲’ | Do you eat milkweed? | <audio src="../audio/55.mp3" controls></audio> |
-| 56 | 3. Seká:se’ kʌ nén oneklʌta̲’ | Do you like morels? | <audio src="../audio/56.mp3" controls></audio> |
-| 57 | 2. Se’nikúlalak tá:kʌ só:tsi yʌsatla’nʌtak tsi’ yotú:ni nén yakohʌ:tálahse̲ | Watch, don’t get to close to the poison ivy | <audio src="../audio/57.mp3" controls></audio> |
-| 58 | 1. Oyu’kwa’uwe né: lutsta’ nén ukwehuwe nʌ tʌhatitalʌ nén shukwaya’tisu’ | Native people use Indian tobacco when they talk to the Creator. | <audio src="../audio/58.mp3" controls></audio> |
+| 53 | Onkwat káti kʌ nén siksik otahsa̲’ | Is the mullen used for medicine? | <audio src="../audio/53.mp3" controls></audio> |
+| 54 | Náhte’ né: onukwat nén olhohte’kó: | What do you use burdock as a medicine for? | <audio src="../audio/54.mp3" controls></audio> |
+| 55 | Ihseks kʌ nise: nén onitshewʌ́:ta̲’ | Do you eat milkweed? | <audio src="../audio/55.mp3" controls></audio> |
+| 56 | Seká:se’ kʌ nén oneklʌta̲’ | Do you like morels? | <audio src="../audio/56.mp3" controls></audio> |
+| 57 | Se’nikúlalak tá:kʌ só:tsi yʌsatla’nʌtak tsi’ yotú:ni nén yakohʌ:tálahse̲ | Watch, don’t get to close to the poison ivy | <audio src="../audio/57.mp3" controls></audio> |
+| 58 | Oyu’kwa’uwe né: lutsta’ nén ukwehuwe nʌ tʌhatitalʌ nén shukwaya’tisu’ | Native people use Indian tobacco when they talk to the Creator. | <audio src="../audio/58.mp3" controls></audio> |
 | 59 | 7. Teyotskalatko: | Smartweed | <audio src="../audio/59.mp3" controls></audio> |
 | 60 | Sáyʌ: kʌ | Do you have _____? | <audio src="../audio/60.mp3" controls></audio> |
 | 61 | tah | no | <audio src="../audio/61.mp3" controls></audio> |
