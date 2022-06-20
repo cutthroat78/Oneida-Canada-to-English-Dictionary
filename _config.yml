@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: "dracula/gh-pages"
 title: "Oneida (Canada) Words and Phrases"
 description: "A website of Oneida (Canada) words & phrases"
 author: "CutThroat78"
