@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 author: "CutThroat78"
-show_header: false
+title: "Oneida (Canada) Words & Phrases"
+description: "Tables of words & phrases for learners learning Oneida (Canada) language"
 show_downloads: false
 github:
    is_project_page: false
