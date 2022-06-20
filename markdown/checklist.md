@@ -1,9 +1,147 @@
-# Animals
-| ID | Oneida | English | Audio File |
+# Greetings
 
-# Time
 | ID | Oneida | English | Audio File |
 |---|---|---|---|
+| 686 | shékoli | hello | <audio src="../audio/686.mp3" controls></audio> |
+| 546 | shekoli ohniyotuháti | hello, how’s it going? | <audio src="../audio/546.mp3" controls></audio> |
+| 561 | Shekolí tsi’ ni wakatshánu:ni̲ | hello I am so happy | <audio src="../audio/561.mp3" controls></audio> |
+| 542 | náhte’ yesa:yáts | what is your name? | <audio src="../audio/542.mp3" controls></audio> |
+| 541 | shekoli Barbara ní: yukyats | hello, my name is Barbara | <audio src="../audio/541.mp3" controls></audio> |
+
+# Clans
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 776 | ashʌ ki’ né: nahoti’talake nén Onʌyota’á:ka | Oneida people have three clans | <audio src="../audio/776.mp3" controls></audio> |
+| 777 | thayú:ni né: na’ako’taló:tʌ nén aksotha̲ | wolf is my grandmother’s clan | <audio src="../audio/777.mp3" controls></audio> |
+| 778 | náhte’ kati né: na’ako’taló:tʌ nén sahsotha̲ | what is your grandmother’s clan? | <audio src="../audio/778.mp3" controls></audio> |
+| 779 | a’nó:wal né: naho’taló:tʌ nén lake’niha̲ | turtle is my fathers clan | <audio src="../audio/779.mp3" controls></audio> |
+| 780 | ok nen ya’niha náhte’ né: naho’taló:tʌ̲’ | what about your father, what is his clan? | <audio src="../audio/780.mp3" controls></audio> |
+| 781 | Hʌ  ohkwá:li ki’ né: na’ako’taló:tʌ’ nén aknulha | yes, my mother’s clan is bear | <audio src="../audio/781.mp3" controls></audio> |
+| 782 | Sanúte’ kʌ náhte’ na’ako’taló:tʌ’ nén sanulha | do you know what your mother’s clan is? | <audio src="../audio/782.mp3" controls></audio> |
+
+# Animals
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 858 | wale:lú̲ | frog | <audio src="../audio/858.mp3" controls></audio> |
+| 859 | ohna’kwalohsa’kó: | elephant | <audio src="../audio/859.mp3" controls></audio> |
+| 860 | tsikawihsakíh̲a̲’ | monkey | <audio src="../audio/860.mp3" controls></audio> |
+| 861 | aní:tas | skunk | <audio src="../audio/861.mp3" controls></audio> |
+| 862 | kwalo:lú̲ | owl | <audio src="../audio/862.mp3" controls></audio> |
+| 863 | atú:nyote̲’ | eagle | <audio src="../audio/863.mp3" controls></audio> |
+| 864 | ʌti:lu̲ | raccoon | <audio src="../audio/864.mp3" controls></audio> |
+| 865 | ótku̲’ | snake | <audio src="../audio/865.mp3" controls></audio> |
+| 866 | otsi’no:wʌ̲ | mouse | <audio src="../audio/866.mp3" controls></audio> |
+| 867 | tsi’kwilʌ́:tu̲ | squirrel | <audio src="../audio/867.mp3" controls></audio> |
+| 868 | kohsa:tʌ́s | horse | <audio src="../audio/868.mp3" controls></audio> |
+| 869 | othahyu:ní̲ | wolf | <audio src="../audio/869.mp3" controls></audio> |
+| 870 | kʌ́tsi | fish | <audio src="../audio/870.mp3" controls></audio> |
+| 871 | é:lhal | dog | <audio src="../audio/871.mp3" controls></audio> |
+| 872 | tsiskó:ko’ | robin | <audio src="../audio/872.mp3" controls></audio> |
+| 873 | kwa’yʌ́h̲a̲ | rabbit | <audio src="../audio/873.mp3" controls></audio> |
+| 874 | takós | cat | <audio src="../audio/874.mp3" controls></audio> |
+| 875 | oskanu:tú̲: | deer | <audio src="../audio/875.mp3" controls></audio> |
+| 876 | ohkwa:lí̲ | bear | <audio src="../audio/876.mp3" controls></audio> |
+| 800 | onhéhta̲ | porcupine | <audio src="../audio/800.mp3" controls></audio> |
+| 801 | tsyoní:tu̲’ | beaver | <audio src="../audio/801.mp3" controls></audio> |
+| 802 | oná:kʌt | groundhog | <audio src="../audio/802.mp3" controls></audio> |
+| 803 | ska’nyúhsa̲’ | moose | <audio src="../audio/803.mp3" controls></audio> |
+
+## Birds
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 380 | Tsi’  niwaku’weskwanihe’ nén  akeyatloló:ke’ nén laulau tho latityenutyese̲’ | I like to see the hummingbirds flying around. | <audio src="../audio/380.mp3" controls></audio> |
+| 382 | Nʌ kʌ né: nʌwʌtu shekʌ nén kwah ok thikuné:se’ skawiló:wan̲e̲’ | did you ever see the wild turkey? | <audio src="../audio/382.mp3" controls></audio> |
+| 383 | Hʌ thoki’ Springbank thunése’ | yes they are at the Springbank | <audio src="../audio/383.mp3" controls></audio> |
+| 384 | Nʌ kʌ nise: nʌwʌtu hetskʌ nén wa’kohseskó: | did you ever see the peacock? | <audio src="../audio/384.mp3" controls></audio> |
+| 385 | Wé:ne kwi tsiskó:ko | I guess the robin | <audio src="../audio/385.mp3" controls></audio> |
+| 386 | Náhte’ ne na’katsi’tʌslotʌ kwah tyotyelʌtu ʌswawe’ nʌ́: kukwí:te̲ | what is the first bird to return in the spring? | <audio src="../audio/386.mp3" controls></audio> |
+| 387 | wa’kohseskó | peacock | <audio src="../audio/387.mp3" controls></audio> |
+| 388 | skawiló:wane̲’ | turkey | <audio src="../audio/388.mp3" controls></audio> |
+| 389 | kalhakú:h̲a̲ | chicken hawk | <audio src="../audio/389.mp3" controls></audio> |
+| 390 | ká:ka’ | crow | <audio src="../audio/390.mp3" controls></audio> |
+| 391 | kwaló:lu̲ | owl | <audio src="../audio/391.mp3" controls></audio> |
+| 392 | Tekahnekákhwa̲: | swallow (a bird) | <audio src="../audio/392.mp3" controls></audio> |
+| 393 | kanata’kékha | sparrow | <audio src="../audio/393.mp3" controls></audio> |
+| 394 | tsiskó:ko’ | robin | <audio src="../audio/394.mp3" controls></audio> |
+| 395 | otsi’nkwalá | goldfinch | <audio src="../audio/395.mp3" controls></audio> |
+| 396 | Laulau | hummingbird | <audio src="../audio/396.mp3" controls></audio> |
+| 397 | Ok nén kohkwá:e | what about the quail or bobwhite? | <audio src="../audio/397.mp3" controls></audio> |
+| 398 | Onikwʌhtala: ki’ nén kohslakweku kʌ’ lʌ:nése̲’ | cardinals stay here all winter. | <audio src="../audio/398.mp3" controls></audio> |
+| 399 | Náhte’ káti’ né: na’katsi’tʌ’slotʌ kʌ’ kunese’ kohslakwé:ku̲ | what kind of birds stay all winter? | <audio src="../audio/399.mp3" controls></audio> |
+| 400 | Talu’kó: kwi nén ʌti nyekunese’ nʌ kanana’kene̲ | Ducks go south in the fall. | <audio src="../audio/400.mp3" controls></audio> |
+| 401 | Náhte’ káti’ né: na’katsitʌ’slotʌ’ nén ʌti nukwá nyekunese’ nén kananakene̲ | what kind of birds go south in the fall? | <audio src="../audio/401.mp3" controls></audio> |
+| 402 | Né: ki’ nén atú:nyote’ kwah tkuwalihowanáhtu | it is the eagle they hold most high | <audio src="../audio/402.mp3" controls></audio> |
+| 403 | Náhte’ na’katsi’tʌ sló:tʌ kwah tkuwalihowanáhtu nén Onʌyota’a:ka | What bird do Oneida people hold most high? | <audio src="../audio/403.mp3" controls></audio> |
+| 404 | tawistáwi̲ | kildeer | <audio src="../audio/404.mp3" controls></audio> |
+| 405 | olí:te̲: | mourning dove | <audio src="../audio/405.mp3" controls></audio> |
+| 406 | atú:nyote̲’ | eagle | <audio src="../audio/406.mp3" controls></audio> |
+| 407 | talu’kó | duck | <audio src="../audio/407.mp3" controls></audio> |
+| 408 | lalutastohoksha̲ | woodpecker | <audio src="../audio/408.mp3" controls></audio> |
+| 409 | kohkwá:e | bobwhite or quail | <audio src="../audio/409.mp3" controls></audio> |
+| 410 | klikli | bluejay | <audio src="../audio/410.mp3" controls></audio> |
+| 411 | onikwʌhtala | cardinal | <audio src="../audio/411.mp3" controls></audio> |
+| 412 | taluló:lu̲ | bluebird | <audio src="../audio/412.mp3" controls></audio> |
+| 413 | kahúk | wild goose | <audio src="../audio/413.mp3" controls></audio> |
+
+## Insects
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 347 | Washeyatló:loke’ kati’ kʌ nén tsistoka’tá:n̲e̲’ | Did you watch the fireflies? | <audio src="../audio/347.mp3" controls></audio> |
+| 348 | Wa’keyatló:loke’ nén kana:wʌ: kʌ’ latityenutyese̲’ | I watched the butterflies flying around. | <audio src="../audio/348.mp3" controls></audio> |
+| 349 | Yah kati’ kʌ otsi’nuhwahé:ta̲’ | isn’t it the earthworm | <audio src="../audio/349.mp3" controls></audio> |
+| 350 | Sanúhte’ kʌ na’katsi’nuyótʌ lutsta nʌ ukuyohkawinésa̲’ | Do you know what kind of insect they use when they go fishing? | <audio src="../audio/350.mp3" controls></audio> |
+| 351 | Kwa’nyo lotityohkwanʌ nén okalyahtá:ne̲’ | There are sure a lot of mosquitoes. | <audio src="../audio/351.mp3" controls></audio> |
+| 352 | Nok ʌwá:tu ʌsehnikúlalake takʌ’ tʌyawe’est tsinuhnehklís | You have to be careful that the bee doesn't sting you. | <audio src="../audio/352.mp3" controls></audio> |
+| 353 | Né: kwi: nu’u:wa ʌyethina’tuni  tsyokna’katsi’nuyotʌse̲’ | We will name the different kinds of insects | <audio src="../audio/353.mp3" controls></audio> |
+| 354 | watlʌ:náyʌhe̲’ | praying mantis | <audio src="../audio/354.mp3" controls></audio> |
+| 355 | otsi’nuwahéta̲’ | earthworm | <audio src="../audio/355.mp3" controls></audio> |
+| 356 | tsistoka’tá:ne̲’ | firefly | <audio src="../audio/356.mp3" controls></audio> |
+| 357 | slíkslik | cricket | <audio src="../audio/357.mp3" controls></audio> |
+| 358 | okalyahtá:ne̲’ | mosquito | <audio src="../audio/358.mp3" controls></audio> |
+| 359 | tsistalak | grasshopper | <audio src="../audio/359.mp3" controls></audio> |
+| 360 | onhwalá:n̲e̲’ | caterpiller | <audio src="../audio/360.mp3" controls></audio> |
+| 361 | kana:wʌ̲́: | butterfly | <audio src="../audio/361.mp3" controls></audio> |
+| 362 | tsinuhnéhklis | bee | <audio src="../audio/362.mp3" controls></audio> |
+| 363 | tsi’nhutstókhwi̲’ | ant | <audio src="../audio/363.mp3" controls></audio> |
+
+# Numbers
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 709 | uská | one | <audio src="../audio/709.mp3" controls></audio> |
+| 710 | tékeni̲ | two | <audio src="../audio/710.mp3" controls></audio> |
+| 711 | ahsʌ̲́ | three | <audio src="../audio/711.mp3" controls></audio> |
+| 712 | kayé: | four | <audio src="../audio/712.mp3" controls></audio> |
+| 713 | wisk | five | <audio src="../audio/713.mp3" controls></audio> |
+| 714 | yá:yak | six | <audio src="../audio/714.mp3" controls></audio> |
+| 715 | tsyá:tak | seven | <audio src="../audio/715.mp3" controls></audio> |
+| 716 | teklu’ | eight | <audio src="../audio/716.mp3" controls></audio> |
+| 717 | wá:tlu’ | nine | <audio src="../audio/717.mp3" controls></audio> |
+| 718 | oyé:li̲ | ten | <audio src="../audio/718.mp3" controls></audio> |
+
+# Colors
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 896 | ohalanʌ́:t̲a̲’ | purple | <audio src="../audio/896.mp3" controls></audio> |
+| 897 | awʌ́:la̲ | green | <audio src="../audio/897.mp3" controls></audio> |
+| 898 | owiskela̲’ | white | <audio src="../audio/898.mp3" controls></audio> |
+| 899 | athehsa̲’ | brown | <audio src="../audio/899.mp3" controls></audio> |
+| 900 | otsí:nkwal | yellow | <audio src="../audio/900.mp3" controls></audio> |
+| 901 | ata’kʌla̲’ | grey | <audio src="../audio/901.mp3" controls></audio> |
+| 902 | sanuhwetha ó:nʌ̲ | You go to bed now. | <audio src="../audio/902.mp3" controls></audio> |
+| 903 | a'no:wál | turtle | <audio src="../audio/903.mp3" controls></audio> |
+| 904 | olú:ya̲’ | Blue | <audio src="../audio/904.mp3" controls></audio> |
+| 905 | oswʌ́:ta̲’ | black | <audio src="../audio/905.mp3" controls></audio> |
+| 918 | onikwʌtahla̲’ | red | <audio src="../audio/918.mp3" controls></audio> |
+
+# Time
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 43 | Nikaha:wi̲ | Time | <audio src="../audio/43.mp3" controls></audio> |
 | 79 | Ʌyólhʌn̲e̲’ | Tomorrow | <audio src="../audio/79.mp3" controls></audio> |
 | 80 | tsi’niwʌhnisló:tʌ̲ | The kind of day | <audio src="../audio/80.mp3" controls></audio> |
 | 81 | Tekni yawʌlé: niwʌhnítake nén tsyohslát | There are twelve months in one year. | <audio src="../audio/81.mp3" controls></audio> |
@@ -19,20 +157,149 @@
 | 95 | astehtsi̲' | morning | <audio src="../audio/95.mp3" controls></audio> |
 | 96 | yo'kalas | evening | <audio src="../audio/96.mp3" controls></audio> |
 | 792 | tó:niyohwistaé | what time is it? | <audio src="../audio/792.mp3" controls></audio> |
+| 793 | wa’yólhʌne̲ | come morning | <audio src="../audio/793.mp3" controls></audio> |
+| 794 | kwahsutati | all night | <audio src="../audio/794.mp3" controls></audio> |
+| 795 | tayolhʌ’hati | coming daylight | <audio src="../audio/795.mp3" controls></audio> |
+| 796 | ahsuthu̲ | midnight | <audio src="../audio/796.mp3" controls></audio> |
+
+
 ## Days of the Week
+
 | ID | Oneida | English | Audio File |
 |---|---|---|---|
-| 71 | Yautatokʌ́htu̲ | Sunday | <audio src="../audio/71.mp3" controls></audio> |
-| 72 | Ʌtakta | Saturday | <audio src="../audio/72.mp3" controls></audio> |
-| 73 | Wiskatút | Friday | <audio src="../audio/73.mp3" controls></audio> |
-| 74 | Kayelihatút | Thursday | <audio src="../audio/74.mp3" controls></audio> |
-| 75 | Ahsʌhatút | Wednesday | <audio src="../audio/75.mp3" controls></audio> |
-| 76 | Teknihatút | Tuesday | <audio src="../audio/76.mp3" controls></audio> |
 | 77 | Yautʌtá:u | Monday | <audio src="../audio/77.mp3" controls></audio> |
+| 76 | Teknihatút | Tuesday | <audio src="../audio/76.mp3" controls></audio> |
+| 75 | Ahsʌhatút | Wednesday | <audio src="../audio/75.mp3" controls></audio> |
+| 74 | Kayelihatút | Thursday | <audio src="../audio/74.mp3" controls></audio> |
+| 73 | Wiskatút | Friday | <audio src="../audio/73.mp3" controls></audio> |
+| 72 | Ʌtakta | Saturday | <audio src="../audio/72.mp3" controls></audio> |
+| 71 | Yautatokʌ́htu̲ | Sunday | <audio src="../audio/71.mp3" controls></audio> |
 | 78 | thé:tʌ̲: | yesterday | <audio src="../audio/78.mp3" controls></audio> |
+
+## Months
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 707 | Teyakohúhtya'ks | January (someone’s ears are freezing) | <audio src="../audio/707.mp3" controls></audio> |
+| 696 | Tsha’tekohsélha̲’ | February (Midwinter) | <audio src="../audio/696.mp3" controls></audio> |
+| 697 | Tewʌhníslya’ks | March (the day is cut in two) | <audio src="../audio/697.mp3" controls></audio> |
+| 698 | Wahsakayu:té:se̲’ | April (it’s thundering) | <audio src="../audio/698.mp3" controls></audio> |
+| 699 | Latiyʌ́thos | May (they plant) | <audio src="../audio/699.mp3" controls></audio> |
+| 700 | Awʌhíhte̲’ | June (strawberries) | <audio src="../audio/700.mp3" controls></audio> |
+| 701 | Ohyótshel̲i̲’ | July (green beans) | <audio src="../audio/701.mp3" controls></audio> |
+| 702 | Onʌ́stase̲’ | August (new corn) | <audio src="../audio/702.mp3" controls></audio> |
+| 703 | Yeyʌthókwas | September (someone harvests) | <audio src="../audio/703.mp3" controls></audio> |
+| 704 | Yutékhwayʌh̲e̲’ | October (someone store's food) | <audio src="../audio/704.mp3" controls></audio> |
+| 705 | Tehutʌnuhela:túh̲e̲’ | November (they give thanks) | <audio src="../audio/705.mp3" controls></audio> |
+| 706 | Wahsu:tés | December (it's a long night) | <audio src="../audio/706.mp3" controls></audio> |
+
+## Seasons
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 44 | Kukwí:te̲ | Spring | <audio src="../audio/44.mp3" controls></audio> |
+
+# Food
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 10 | Hao’ swatekhú:ni̲ | All of you, come and eat | <audio src="../audio/10.mp3" controls></audio> |
+| 11 | Owistóhsehli’ kʌ tesatuhutsyu:ni̲ | do you want butter? | <audio src="../audio/11.mp3" controls></audio> |
+| 12 | tesatuhutsyuni kʌ kʌ́tsi’ | Do you want fish? | <audio src="../audio/12.mp3" controls></audio> |
+| 13 | katuhkályaks kih | I am hungry | <audio src="../audio/13.mp3" controls></audio> |
+| 16 | Tʌsnanátalihte’ kʌ khále’ ʌsnatsihalʌ kʌ otsíhkwa̲’ | Are you going to mash potatoes and cook turnips? | <audio src="../audio/16.mp3" controls></audio> |
+| 21 | kakhwahé:le̲’ | feast | <audio src="../audio/21.mp3" controls></audio> |
+| 23 | loti’khwaká:te̲’ | they have lots of food | <audio src="../audio/23.mp3" controls></audio> |
+| 24 | kakhwaku | good food | <audio src="../audio/24.mp3" controls></audio> |
+| 25 | skawihlowane’ o’wá:lu̲’ | turkey meat | <audio src="../audio/25.mp3" controls></audio> |
+| 26 | wa’yathoku | a lot of pies | <audio src="../audio/26.mp3" controls></audio> |
+| 27 | watna’talú:takwe̲’ | homemade bread | <audio src="../audio/27.mp3" controls></audio> |
+| 28 | tekananatalí:tu̲ | mashed potatoes | <audio src="../audio/28.mp3" controls></audio> |
+| 29 | otsíhkwa̲’ | turnip | <audio src="../audio/29.mp3" controls></audio> |
+| 30 | onu’uslakó: wá:yat | pumpkin pie | <audio src="../audio/30.mp3" controls></audio> |
+| 31 | o:nʌstáse’ wʌhnitatati | month of new corn | <audio src="../audio/31.mp3" controls></audio> |
+| 32 | Tho niyotityóhwake’ nén oshaheta̲ | How many groups of beans is there? | <audio src="../audio/32.mp3" controls></audio> |
+| 18 | Sate’wahlutá:ne’ kʌ skawihló:wan̲e̲’ | Are you going to roast a turkey? | <audio src="../audio/18.mp3" controls></audio> |
+| 258 | swahyó:wan̲e̲’ | apple | <audio src="../audio/258.mp3" controls></audio> |
+| 260 | lutekhwaní:nuhe̲’ | food vendors | <audio src="../audio/260.mp3" controls></audio> |
+| 263 | To: niku onu’usehle’ tʌkʌ:sel̲e̲’ | How many pickles do you want me to peel? | <audio src="../audio/263.mp3" controls></audio> |
+| 264 | Ne: kwí tʌ sla’wistakʌsehle’ onu’usehl̲e̲’ | You should peel the cucumbers. | <audio src="../audio/264.mp3" controls></audio> |
+| 265 | Tʌsatnu’uslahyo:tsiste’ kʌ | Are you going to make salted pickles? | <audio src="../audio/265.mp3" controls></audio> |
+| 266 | Hʌ: ikelhe’ ki’ akatayalit yotshe’tʌ́:tu:h̲e̲’ | Yes I want to can some pears. | <audio src="../audio/266.mp3" controls></audio> |
+| 267 | ʌsatayalite’ kʌ nu’uwa̲’ | Are you going to can fruit this time? | <audio src="../audio/267.mp3" controls></audio> |
+| 268 | satá:yaliht | can fruit | <audio src="../audio/268.mp3" controls></audio> |
+| 269 | tehsatnu’uhslahyo:tsiste̲’ | make dill pickles | <audio src="../audio/269.mp3" controls></audio> |
+| 270 | satahyátat | dry the fruit | <audio src="../audio/270.mp3" controls></audio> |
+| 271 | swisto:kwanust káhik | freeze the fruit | <audio src="../audio/271.mp3" controls></audio> |
+| 272 | tehsnu’slá:lit | cut up the cucumbers | <audio src="../audio/272.mp3" controls></audio> |
+| 273 | sahyohale̲’ | wash the fruit | <audio src="../audio/273.mp3" controls></audio> |
+| 274 | ʌslihatet kahik | boil the fruit | <audio src="../audio/274.mp3" controls></audio> |
+| 275 | tehsahyakʌ:sel̲ | peel the fruit | <audio src="../audio/275.mp3" controls></audio> |
+| 276 | katshetaku setan | put in the jar | <audio src="../audio/276.mp3" controls></audio> |
+| 277 | snú:tek | put the lid on | <audio src="../audio/277.mp3" controls></audio> |
+| 278 | yutekhwayʌ:he’ nikaha:w̲í̲: | storing food time | <audio src="../audio/278.mp3" controls></audio> |
+| 804 | satuhkalyáks kʌh | are you hungry? | <audio src="../audio/804.mp3" controls></audio> |
+| 805 | hao’ satekhú:ni̲ | come and eat | <audio src="../audio/805.mp3" controls></audio> |
+| 806 | hao’ swatekhú:ni̲ | all of you come and eat | <audio src="../audio/806.mp3" controls></audio> |
+| 807 | náhte’ isle’ asék | what do you want to eat? | <audio src="../audio/807.mp3" controls></audio> |
+| 808 | náhte’ isle’ asnikí:la̲ | what do you want to drink? | <audio src="../audio/808.mp3" controls></audio> |
+| 815 | owistohsehl̲e̲ | butter | <audio src="../audio/815.mp3" controls></audio> |
+| 816 | tsyohyó:tsis | salt | <audio src="../audio/816.mp3" controls></audio> |
+| 817 | onúkwat | pepper | <audio src="../audio/817.mp3" controls></audio> |
+| 818 | ohnaná:ta̲ | potato | <audio src="../audio/818.mp3" controls></audio> |
+| 819 | o’walu̲’ | meat | <audio src="../audio/819.mp3" controls></audio> |
+| 820 | osahéth̲a̲ | beans | <audio src="../audio/820.mp3" controls></audio> |
+| 821 | onʌste̲’ | corn | <audio src="../audio/821.mp3" controls></audio> |
+| 822 | ohné:kanus | water | <audio src="../audio/822.mp3" controls></audio> |
+| 823 | ohnuta̲ | milk | <audio src="../audio/823.mp3" controls></audio> |
+| 824 | swahyó:wan̲e̲ | apple | <audio src="../audio/824.mp3" controls></audio> |
+| 825 | tewahyakháni | tomato | <audio src="../audio/825.mp3" controls></audio> |
+| 826 | á:nuk | onion | <audio src="../audio/826.mp3" controls></audio> |
+| 827 | wá:yat | pie | <audio src="../audio/827.mp3" controls></audio> |
+| 828 | kaná:talok | (store bought) bread | <audio src="../audio/828.mp3" controls></audio> |
+| 829 | kakhwa’shúh̲a̲ | foods | <audio src="../audio/829.mp3" controls></audio> |
+| 830 | yaweku kʌh | does it taste good? | <audio src="../audio/830.mp3" controls></audio> |
+| 831 | katsi’nkwalahu:tsi | orange | <audio src="../audio/831.mp3" controls></audio> |
+| 915 | onutakeli̲ | Sugar | <audio src="../audio/915.mp3" controls></audio> |
+| 199 | kakhwa’shú:h̲a̲ | different kinds of foods | <audio src="../audio/199.mp3" controls></audio> |
+| 200 | kutikhu:níhe̲’ | the cooks | <audio src="../audio/200.mp3" controls></audio> |
+| 194 | Wakheya’takenhása’ nén kutikhú:ni̲h̲e̲’ | I am going to help the cooks. | <audio src="../audio/194.mp3" controls></audio> |
+| 673 | otstókhwi̲’ | blueberry | <audio src="../audio/673.mp3" controls></audio> |
+| 674 | o’nʌhalkó: | grapes | <audio src="../audio/674.mp3" controls></audio> |
+| 675 | alá:sek | elderberry | <audio src="../audio/675.mp3" controls></audio> |
+| 676 | yonu’slaké:tote̲’ | squash | <audio src="../audio/676.mp3" controls></audio> |
+| 677 | onú:tsi̲ | cabbage | <audio src="../audio/677.mp3" controls></audio> |
+| 678 | onikwʌhtla’ nikahtehló:tʌ̲ | beet | <audio src="../audio/678.mp3" controls></audio> |
+| 679 | teyotsho’kwakwe’nú:ni̲ | walnuts | <audio src="../audio/679.mp3" controls></audio> |
+| 680 | otsinkhwala’ nikahtehló:tʌ̲ | carrots | <audio src="../audio/680.mp3" controls></audio> |
+| 681 | Ʌsatnʌstatate’ kʌ nén onʌhakʌ́:late̲ | Are you going to dry the Indian corn? | <audio src="../audio/681.mp3" controls></audio> |
+| 682 | Hʌ: tho’ nʌ ʌwá:tu né: ʌkatlanú:ni̲ | Yes, then I can make cornsoup | <audio src="../audio/682.mp3" controls></audio> |
+| 683 | Ʌwá:tu kʌ alá:sek wá:yat ʌsatna’talú:ni̲ | Can you make elderberry pie? | <audio src="../audio/683.mp3" controls></audio> |
+| 684 | Ʌsatsható: kʌ nén yonu’slaké:tote̲’ | Are you going to bury the squash? | <audio src="../audio/684.mp3" controls></audio> |
+| 685 | Tah oksa' ki' né: ʌkna’tishalʌ̲ | No, I'm going to boil it right away. | <audio src="../audio/685.mp3" controls></audio> |
+| 687 | tetwatunʌhelá:tu kakhwa’shuha̲ | we give thanks for these foods | <audio src="../audio/687.mp3" controls></audio> |
+
+# Cutlery
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 688 | yehnikihlatha’ ó:wise̲’ | drinking glass | <audio src="../audio/688.mp3" controls></audio> |
+| 689 | yehnikihlatha̲’ | drinking mug | <audio src="../audio/689.mp3" controls></audio> |
+| 690 | atsí | dinner plate | <audio src="../audio/690.mp3" controls></audio> |
+| 691 | atokwat | spoon | <audio src="../audio/691.mp3" controls></audio> |
+| 692 | ashale̲’ | knife | <audio src="../audio/692.mp3" controls></audio> |
+| 693 | ashekwe̲’ | fork | <audio src="../audio/693.mp3" controls></audio> |
+| 694 | yutshokewatha̲’ | napkin | <audio src="../audio/694.mp3" controls></audio> |
+| 695 | yutsholyatha̲’ | bowl | <audio src="../audio/695.mp3" controls></audio> |
+
+# Family
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 22 | kahwa:tsí:le̲’ | family | <audio src="../audio/22.mp3" controls></audio> |
 
 # Celebrations
 ## New Year's
+
 | ID | Oneida | English | Audio File |
 |---|---|---|---|
 | 84 | Kwa’ nyóh kwi yosnóle: tsyohslát yuskáhewe̲’ | How fast the year went by. | <audio src="../audio/84.mp3" controls></audio> |
@@ -40,7 +307,30 @@
 | 86 | Nʌ kʌ á:se yohslá:te̲ | Is it New Year's now? | <audio src="../audio/86.mp3" controls></audio> |
 | 87 | a:sé yohsláte̲ | new year | <audio src="../audio/87.mp3" controls></audio> |
 
+## Thanksgiving
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 202 | kanuhelatúksla’ | thanksgiving address | <audio src="../audio/202.mp3" controls></audio> |
+| 25 | skawihlowane’ o’wá:lu̲’ | turkey meat | <audio src="../audio/25.mp3" controls></audio> |
+| 18 | Sate’wahlutá:ne’ kʌ skawihló:wan̲e̲’ | are you going to roast a turkey? | <audio src="../audio/18.mp3" controls></audio> |
+| 19 | Hʌ́: né: ki’ kanutunyú:he̲’ | yes, I am thinking about it. | <audio src="../audio/19.mp3" controls></audio> |
+| 20 | Satekhwalá:ne’ kʌ ni’isé: tsi’ náhte’ yutanuhelá:tuhe̲’ | Are you going to have a thanksgiving feast? | <audio src="../audio/20.mp3" controls></audio> |
+| 17 | Hʌ́: se’ wah | I sure am! | <audio src="../audio/17.mp3" controls></audio> |
+| 198 | tetwatanʌhelá:tu | let us give thanks | <audio src="../audio/198.mp3" controls></audio> |
+| 206 | tehutanʌhelá:tuhe̲’ | giving thanks | <audio src="../audio/206.mp3" controls></audio> |
+
+# Weather
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 185 | Kanye:yʌ̲ | There is snow on the ground. | <audio src="../audio/185.mp3" controls></audio> |
+| 186 | Tayohtsi’kláti | Clouds are coming. | <audio src="../audio/186.mp3" controls></audio> |
+| 187 | Tayota’klokwʌháti | Snow is coming. | <audio src="../audio/187.mp3" controls></audio> |
+| 188 | Tayotholáti | Cold (weather) is coming. | <audio src="../audio/188.mp3" controls></audio> |
+
 # Unsorted
+
 | ID | Oneida | English | Audio File |
 |---|---|---|---|
 | 1 | Tho yʌkéhseke’ | Will you be there? | <audio src="../audio/1.mp3" controls></audio> |
@@ -52,29 +342,8 @@
 | 7 | yah tho tyehekéskwe’ | I was not there | <audio src="../audio/7.mp3" controls></audio> |
 | 8 | Tho yehekéhskwe’ | I was there | <audio src="../audio/8.mp3" controls></audio> |
 | 9 | Kʌ tho i:kéhse̲’ | I am here | <audio src="../audio/9.mp3" controls></audio> |
-| 10 | Hao’ swatekhú:ni̲ | All of you, come and eat | <audio src="../audio/10.mp3" controls></audio> |
-| 11 | Owistóhsehli’ kʌ tesatuhutsyu:ni̲ | do you want butter? | <audio src="../audio/11.mp3" controls></audio> |
-| 12 | tesatuhutsyuni kʌ kʌ́tsi’ | Do you want fish? | <audio src="../audio/12.mp3" controls></audio> |
-| 13 | katuhkályaks kih | I am hungry | <audio src="../audio/13.mp3" controls></audio> |
 | 14 | Hʌ né: ki’ kanutunyúhe̲’ | Yes I’m thinking about it. | <audio src="../audio/14.mp3" controls></audio> |
 | 15 | Hʌ́: né: ki’ í:kehlhe̲’ | Yes, I wanted to. | <audio src="../audio/15.mp3" controls></audio> |
-| 16 | Tʌsnanátalihte’ kʌ khále’ ʌsnatsihalʌ kʌ otsíhkwa̲’ | Are you going to mash potatoes and cook turnips? | <audio src="../audio/16.mp3" controls></audio> |
-| 17 | Hʌ́: se’ wah | I sure am! | <audio src="../audio/17.mp3" controls></audio> |
-| 18 | Sate’wahlutá:ne’ kʌ skawihló:wan̲e̲’ | are you going to roast a turkey? | <audio src="../audio/18.mp3" controls></audio> |
-| 19 | Hʌ́: né: ki’ kanutunyú:he̲’ | yes, I am thinking about it. | <audio src="../audio/19.mp3" controls></audio> |
-| 20 | Satekhwalá:ne’ kʌ ni’isé: tsi’ náhte’ yutanuhelá:tuhe̲’ | Are you going to have a thanksgiving feast? | <audio src="../audio/20.mp3" controls></audio> |
-| 21 | kakhwahé:le̲’ | feast | <audio src="../audio/21.mp3" controls></audio> |
-| 22 | kahwa:tsí:le̲’ | family | <audio src="../audio/22.mp3" controls></audio> |
-| 23 | loti’khwaká:te̲’ | they have lots of food | <audio src="../audio/23.mp3" controls></audio> |
-| 24 | kakhwaku | good food | <audio src="../audio/24.mp3" controls></audio> |
-| 25 | skawihlowane’ o’wá:lu̲’ | turkey meat | <audio src="../audio/25.mp3" controls></audio> |
-| 26 | wa’yathoku | a lot of pies | <audio src="../audio/26.mp3" controls></audio> |
-| 27 | watna’talú:takwe̲’ | homemade bread | <audio src="../audio/27.mp3" controls></audio> |
-| 28 | tekananatalí:tu̲ | mashed potatoes | <audio src="../audio/28.mp3" controls></audio> |
-| 29 | otsíhkwa̲’ | turnip | <audio src="../audio/29.mp3" controls></audio> |
-| 30 | onu’uslakó: wá:yat | pumpkin pie | <audio src="../audio/30.mp3" controls></audio> |
-| 31 | o:nʌstáse’ wʌhnitatati | month of new corn | <audio src="../audio/31.mp3" controls></audio> |
-| 32 | Tho niyotityóhwake’ nén oshaheta̲ | How many groups of beans is there? | <audio src="../audio/32.mp3" controls></audio> |
 | 33 | shakotiyenashn̲e̲ | police station | <audio src="../audio/33.mp3" controls></audio> |
 | 34 | yutenata’asta̲ | gas station | <audio src="../audio/34.mp3" controls></audio> |
 | 35 | latinakle’ tehutlásta’ | community centre | <audio src="../audio/35.mp3" controls></audio> |
@@ -85,8 +354,6 @@
 | 40 | tethutkʌnyé:tha̲’ | fairgrounds | <audio src="../audio/40.mp3" controls></audio> |
 | 41 | kalihunyʌnitsla’ lonatstelistu lati’tlu’ | Education office | <audio src="../audio/41.mp3" controls></audio> |
 | 42 | twaskóhu̲ | bridge | <audio src="../audio/42.mp3" controls></audio> |
-| 43 | Nikaha:wi̲ | Time | <audio src="../audio/43.mp3" controls></audio> |
-| 44 | Kukwí:te̲ | Spring | <audio src="../audio/44.mp3" controls></audio> |
 | 45 | Lonu’weskwaníhe’ tehutshikwá’eks | They enjoy playing ball  | <audio src="../audio/45.mp3" controls></audio> |
 | 46 | Hanyo tehsalatat | Come on, Run fast! | <audio src="../audio/46.mp3" controls></audio> |
 | 47 | Sahkwislu | Try hard! | <audio src="../audio/47.mp3" controls></audio> |
@@ -218,7 +485,6 @@
 | 199 | kakhwa’shú:h̲a̲ | different kinds of foods | <audio src="../audio/199.mp3" controls></audio> |
 | 200 | kutikhu:níhe̲’ | the cooks | <audio src="../audio/200.mp3" controls></audio> |
 | 201 | tehútkwa̲’ | dancers | <audio src="../audio/201.mp3" controls></audio> |
-| 202 | kanuhelatúksla’ | thanksgiving address | <audio src="../audio/202.mp3" controls></audio> |
 | 203 | kalihwíy̲o̲ | good message | <audio src="../audio/203.mp3" controls></audio> |
 | 204 | kanushésn̲e̲ | longhouse | <audio src="../audio/204.mp3" controls></audio> |
 | 205 | kʌtyóhkwa̲ | people | <audio src="../audio/205.mp3" controls></audio> |
@@ -274,27 +540,10 @@
 | 255 | tasatkʌ́:ni̲ | to enter a contest | <audio src="../audio/255.mp3" controls></audio> |
 | 256 | lutita’asta̲ | rides | <audio src="../audio/256.mp3" controls></audio> |
 | 257 | yakotsihalatenyátha̲ | the twirl ride | <audio src="../audio/257.mp3" controls></audio> |
-| 258 | swahyó:wan̲e̲’ | apple | <audio src="../audio/258.mp3" controls></audio> |
 | 259 | kohsá:tʌs | horse | <audio src="../audio/259.mp3" controls></audio> |
-| 260 | lutekhwaní:nuhe̲’ | food vendors | <audio src="../audio/260.mp3" controls></audio> |
 | 261 | lotinʌlahsluniháti | parade | <audio src="../audio/261.mp3" controls></audio> |
 | 262 | Kwah ki’nok kayé: ní:ku̲ | Just four of them | <audio src="../audio/262.mp3" controls></audio> |
-| 263 | To: niku onu’usehle’ tʌkʌ:sel̲e̲’ | How many pickles do you want me to peel? | <audio src="../audio/263.mp3" controls></audio> |
-| 264 | Ne: kwí tʌ sla’wistakʌsehle’ onu’usehl̲e̲’ | You should peel the cucumbers. | <audio src="../audio/264.mp3" controls></audio> |
-| 265 | Tʌsatnu’uslahyo:tsiste’ kʌ | Are you going to make salted pickles? | <audio src="../audio/265.mp3" controls></audio> |
-| 266 | Hʌ: ikelhe’ ki’ akatayalit yotshe’tʌ́:tu:h̲e̲’ | Yes I want to can some pears. | <audio src="../audio/266.mp3" controls></audio> |
-| 267 | ʌsatayalite’ kʌ nu’uwa̲’ | Are you going to can fruit this time? | <audio src="../audio/267.mp3" controls></audio> |
-| 268 | satá:yaliht | can fruit | <audio src="../audio/268.mp3" controls></audio> |
-| 269 | tehsatnu’uhslahyo:tsiste̲’ | make dill pickles | <audio src="../audio/269.mp3" controls></audio> |
-| 270 | satahyátat | dry the fruit | <audio src="../audio/270.mp3" controls></audio> |
-| 271 | swisto:kwanust káhik | freeze the fruit | <audio src="../audio/271.mp3" controls></audio> |
-| 272 | tehsnu’slá:lit | cut up the cucumbers | <audio src="../audio/272.mp3" controls></audio> |
-| 273 | sahyohale̲’ | wash the fruit | <audio src="../audio/273.mp3" controls></audio> |
-| 274 | ʌslihatet kahik | boil the fruit | <audio src="../audio/274.mp3" controls></audio> |
-| 275 | tehsahyakʌ:sel̲ | peel the fruit | <audio src="../audio/275.mp3" controls></audio> |
-| 276 | katshetaku setan | put in the jar | <audio src="../audio/276.mp3" controls></audio> |
-| 277 | snú:tek | put the lid on | <audio src="../audio/277.mp3" controls></audio> |
-| 278 | yutekhwayʌ:he’ nikaha:w̲í̲: | storing food time | <audio src="../audio/278.mp3" controls></audio> |
+
 | 279 | Hʌ: tahnuwi: wa’ketsyá:kʌ̲ | Yes, and I worked very hard. | <audio src="../audio/279.mp3" controls></audio> |
 | 280 | Hʌ: okni’ i:se̲’ | Yes, did you? | <audio src="../audio/280.mp3" controls></audio> |
 | 281 | Wa’tehsatu:kóhte’ kʌ | Did you graduate? | <audio src="../audio/281.mp3" controls></audio> |
@@ -363,23 +612,6 @@
 | 344 | tsyohsó:kwes | butternut | <audio src="../audio/344.mp3" controls></audio> |
 | 345 | e:lí̲ | cherry | <audio src="../audio/345.mp3" controls></audio> |
 | 346 | tekanʌ’takwʌ́htʌ̲’ | cedar | <audio src="../audio/346.mp3" controls></audio> |
-| 347 | Washeyatló:loke’ kati’ kʌ nén tsistoka’tá:n̲e̲’ | Did you watch the fireflies? | <audio src="../audio/347.mp3" controls></audio> |
-| 348 | Wa’keyatló:loke’ nén kana:wʌ: kʌ’ latityenutyese̲’ | I watched the butterflies flying around. | <audio src="../audio/348.mp3" controls></audio> |
-| 349 | Yah kati’ kʌ otsi’nuhwahé:ta̲’ | isn’t it the earthworm | <audio src="../audio/349.mp3" controls></audio> |
-| 350 | Sanúhte’ kʌ na’katsi’nuyótʌ lutsta nʌ ukuyohkawinésa̲’ | Do you know what kind of insect they use when they go fishing? | <audio src="../audio/350.mp3" controls></audio> |
-| 351 | Kwa’nyo lotityohkwanʌ nén okalyahtá:ne̲’ | There are sure a lot of mosquitoes. | <audio src="../audio/351.mp3" controls></audio> |
-| 352 | Nok ʌwá:tu ʌsehnikúlalake takʌ’ tʌyawe’est tsinuhnehklís | You have to be careful that the bee doesn't sting you. | <audio src="../audio/352.mp3" controls></audio> |
-| 353 | Né: kwi: nu’u:wa ʌyethina’tuni  tsyokna’katsi’nuyotʌse̲’ | We will name the different kinds of insects | <audio src="../audio/353.mp3" controls></audio> |
-| 354 | watlʌ:náyʌhe̲’ | praying mantis | <audio src="../audio/354.mp3" controls></audio> |
-| 355 | otsi’nuwahéta̲’ | earthworm | <audio src="../audio/355.mp3" controls></audio> |
-| 356 | tsistoka’tá:ne̲’ | firefly | <audio src="../audio/356.mp3" controls></audio> |
-| 357 | slíkslik | cricket | <audio src="../audio/357.mp3" controls></audio> |
-| 358 | okalyahtá:ne̲’ | mosquito | <audio src="../audio/358.mp3" controls></audio> |
-| 359 | tsistalak | grasshopper | <audio src="../audio/359.mp3" controls></audio> |
-| 360 | onhwalá:n̲e̲’ | caterpiller | <audio src="../audio/360.mp3" controls></audio> |
-| 361 | kana:wʌ̲́: | butterfly | <audio src="../audio/361.mp3" controls></audio> |
-| 362 | tsinuhnéhklis | bee | <audio src="../audio/362.mp3" controls></audio> |
-| 363 | tsi’nhutstókhwi̲’ | ant | <audio src="../audio/363.mp3" controls></audio> |
 | 364 | Wa’eskalakone’ kʌ nén sanulha | Is your mother going to pick flax? | <audio src="../audio/364.mp3" controls></audio> |
 | 365 | Wahsahyaka’ káti’ kʌ nén shá:yese̲’ | Are you going to pick thimbleberries? | <audio src="../audio/365.mp3" controls></audio> |
 | 366 | Hʌ thonʌ wá:yat ʌkatú:ni̲ | Yes, then I am going to make pie. | <audio src="../audio/366.mp3" controls></audio> |
@@ -396,40 +628,7 @@
 | 377 | otshohkhwi̲ | blueberry | <audio src="../audio/377.mp3" controls></audio> |
 | 378 | teyothutá:ktu̲ | blackcap | <audio src="../audio/378.mp3" controls></audio> |
 | 379 | shá:yese̲’ | thimbleberry | <audio src="../audio/379.mp3" controls></audio> |
-| 380 | Tsi’  niwaku’weskwanihe’ nén  akeyatloló:ke’ nén laulau tho latityenutyese̲’ | I like to see the hummingbirds flying around. | <audio src="../audio/380.mp3" controls></audio> |
 | 381 | Hʌ nok tsi’ yah ki’ nuwʌtu te’wake’waláku | yes but I have never eaten the meat | <audio src="../audio/381.mp3" controls></audio> |
-| 382 | Nʌ kʌ né: nʌwʌtu shekʌ nén kwah ok thikuné:se’ skawiló:wan̲e̲’ | did you ever see the wild turkey? | <audio src="../audio/382.mp3" controls></audio> |
-| 383 | Hʌ thoki’ Springbank thunése’ | yes they are at the Springbank | <audio src="../audio/383.mp3" controls></audio> |
-| 384 | Nʌ kʌ nise: nʌwʌtu hetskʌ nén wa’kohseskó: | did you ever see the peacock? | <audio src="../audio/384.mp3" controls></audio> |
-| 385 | Wé:ne kwi tsiskó:ko | I guess the robin | <audio src="../audio/385.mp3" controls></audio> |
-| 386 | Náhte’ ne na’katsi’tʌslotʌ kwah tyotyelʌtu ʌswawe’ nʌ́: kukwí:te̲ | what is the first bird to return in the spring? | <audio src="../audio/386.mp3" controls></audio> |
-| 387 | wa’kohseskó | peacock | <audio src="../audio/387.mp3" controls></audio> |
-| 388 | skawiló:wane̲’ | turkey | <audio src="../audio/388.mp3" controls></audio> |
-| 389 | kalhakú:h̲a̲ | chicken hawk | <audio src="../audio/389.mp3" controls></audio> |
-| 390 | ká:ka’ | crow | <audio src="../audio/390.mp3" controls></audio> |
-| 391 | kwaló:lu̲ | owl | <audio src="../audio/391.mp3" controls></audio> |
-| 392 | Tekahnekákhwa̲: | swallow (a bird) | <audio src="../audio/392.mp3" controls></audio> |
-| 393 | kanata’kékha | sparrow | <audio src="../audio/393.mp3" controls></audio> |
-| 394 | tsiskó:ko’ | robin | <audio src="../audio/394.mp3" controls></audio> |
-| 395 | otsi’nkwalá | goldfinch | <audio src="../audio/395.mp3" controls></audio> |
-| 396 | Laulau | hummingbird | <audio src="../audio/396.mp3" controls></audio> |
-| 397 | Ok nén kohkwá:e | what about the quail or bobwhite? | <audio src="../audio/397.mp3" controls></audio> |
-| 398 | Onikwʌhtala: ki’ nén kohslakweku kʌ’ lʌ:nése̲’ | cardinals stay here all winter. | <audio src="../audio/398.mp3" controls></audio> |
-| 399 | Náhte’ káti’ né: na’katsi’tʌ’slotʌ kʌ’ kunese’ kohslakwé:ku̲ | what kind of birds stay all winter? | <audio src="../audio/399.mp3" controls></audio> |
-| 400 | Talu’kó: kwi nén ʌti nyekunese’ nʌ kanana’kene̲ | Ducks go south in the fall. | <audio src="../audio/400.mp3" controls></audio> |
-| 401 | Náhte’ káti’ né: na’katsitʌ’slotʌ’ nén ʌti nukwá nyekunese’ nén kananakene̲ | what kind of birds go south in the fall? | <audio src="../audio/401.mp3" controls></audio> |
-| 402 | Né: ki’ nén atú:nyote’ kwah tkuwalihowanáhtu | it is the eagle they hold most high | <audio src="../audio/402.mp3" controls></audio> |
-| 403 | Náhte’ na’katsi’tʌ sló:tʌ kwah tkuwalihowanáhtu nén Onʌyota’a:ka | What bird do Oneida people hold most high? | <audio src="../audio/403.mp3" controls></audio> |
-| 404 | tawistáwi̲ | kildeer | <audio src="../audio/404.mp3" controls></audio> |
-| 405 | olí:te̲: | mourning dove | <audio src="../audio/405.mp3" controls></audio> |
-| 406 | atú:nyote̲’ | eagle | <audio src="../audio/406.mp3" controls></audio> |
-| 407 | talu’kó | duck | <audio src="../audio/407.mp3" controls></audio> |
-| 408 | lalutastohoksha̲ | woodpecker | <audio src="../audio/408.mp3" controls></audio> |
-| 409 | kohkwá:e | bobwhite or quail | <audio src="../audio/409.mp3" controls></audio> |
-| 410 | klikli | bluejay | <audio src="../audio/410.mp3" controls></audio> |
-| 411 | onikwʌhtala | cardinal | <audio src="../audio/411.mp3" controls></audio> |
-| 412 | taluló:lu̲ | bluebird | <audio src="../audio/412.mp3" controls></audio> |
-| 413 | kahúk | wild goose | <audio src="../audio/413.mp3" controls></audio> |
 | 414 | Sanúhte’ kʌ to:nihoti’taláke nén Onʌyota’a:ka̲ | Do you know how many clans Oneida people have? | <audio src="../audio/414.mp3" controls></audio> |
 | 415 | Hao’ kwi tasna’tuni nén tsi’ nihoti’taló:tʌse̲’ | You name the clans then | <audio src="../audio/415.mp3" controls></audio> |
 | 416 | Hao’  ohkwá:li  a’nó:wal khále’ othayú:ni̲ | Ok, bear, turtle and wolf | <audio src="../audio/416.mp3" controls></audio> |
@@ -557,12 +756,9 @@
 | 538 | kayu:kwíl̲e̲’ | arrow | <audio src="../audio/538.mp3" controls></audio> |
 | 539 | a’ʌ:ná̲ | bow | <audio src="../audio/539.mp3" controls></audio> |
 | 540 | káhul̲e̲’ | gun | <audio src="../audio/540.mp3" controls></audio> |
-| 541 | shekoli Barbara ní: yukyats | hello, my name is Barbara | <audio src="../audio/541.mp3" controls></audio> |
-| 542 | náhte’ yesa:yáts | what is your name? | <audio src="../audio/542.mp3" controls></audio> |
 | 543 | yah te’wakata’kalíte̲ | I am not well | <audio src="../audio/543.mp3" controls></audio> |
 | 544 | wakata’kalité: ki | I am well | <audio src="../audio/544.mp3" controls></audio> |
 | 545 | sata’kalíte: kʌ | are you well? | <audio src="../audio/545.mp3" controls></audio> |
-| 546 | shekoli ohniyotuháti | hello, how’s it going? | <audio src="../audio/546.mp3" controls></audio> |
 | 547 | wakatshanu:ní tsi’ sakúk | I am happy to see you | <audio src="../audio/547.mp3" controls></audio> |
 | 548 | sʌnʌsliyóste̲’ | (you) have a good day | <audio src="../audio/548.mp3" controls></audio> |
 | 549 | nʌki’wah | see you again (goodbye) | <audio src="../audio/549.mp3" controls></audio> |
@@ -574,10 +770,9 @@
 | 555 | ʌtekheyú: náhte’ wakí | I will give it to them what I have | <audio src="../audio/555.mp3" controls></audio> |
 | 556 | katukwe’tiyóstha’ tyótkut | I always try to be a good person | <audio src="../audio/556.mp3" controls></audio> |
 | 557 | kheya’takénhas | I help them or her | <audio src="../audio/557.mp3" controls></audio> |
-| 558 | Oskanhe’ yukniyo:té: nen teyakyatátisnye | together the two of us work we take care of each other | <audio src="../audio/558.mp3" controls></audio> |
+| 558 | Oskanhe’ yukniyo:té: nen teyakyatátisnye | together the two of us work we take care of each other | <audio src="../audio/558.mp3" controls></audio> 
 | 559 | Tyótkut tewaktíhʌ nen akwa:tsil̲é̲ | always I care about my family | <audio src="../audio/559.mp3" controls></audio> |
 | 560 | ni’ khenolúkhwa akwa:tsil̲é̲ | I love my family | <audio src="../audio/560.mp3" controls></audio> |
-| 561 | Shekolí tsi’ ni wakatshánu:ni̲ | hello I am so happy | <audio src="../audio/561.mp3" controls></audio> |
 | 562 | laksótha̲ | my grandfather | <audio src="../audio/562.mp3" controls></audio> |
 | 563 | aksótha̲ | my grandmother | <audio src="../audio/563.mp3" controls></audio> |
 | 564 | né: ka’í:kʌ aknulhá | this is my mother | <audio src="../audio/564.mp3" controls></audio> |
@@ -689,52 +884,7 @@
 | 670 | akwatkuhsolokta’ | my mask | <audio src="../audio/670.mp3" controls></audio> |
 | 671 | awélu'uske̲' | witch | <audio src="../audio/671.mp3" controls></audio> |
 | 672 | tsina’tsyakehte̲’ | spider | <audio src="../audio/672.mp3" controls></audio> |
-| 673 | otstókhwi̲’ | blueberry | <audio src="../audio/673.mp3" controls></audio> |
-| 674 | o’nʌhalkó: | grapes | <audio src="../audio/674.mp3" controls></audio> |
-| 675 | alá:sek | elderberry | <audio src="../audio/675.mp3" controls></audio> |
-| 676 | yonu’slaké:tote̲’ | squash | <audio src="../audio/676.mp3" controls></audio> |
-| 677 | onú:tsi̲ | cabbage | <audio src="../audio/677.mp3" controls></audio> |
-| 678 | onikwʌhtla’ nikahtehló:tʌ̲ | beet | <audio src="../audio/678.mp3" controls></audio> |
-| 679 | teyotsho’kwakwe’nú:ni̲ | walnuts | <audio src="../audio/679.mp3" controls></audio> |
-| 680 | otsinkhwala’ nikahtehló:tʌ̲ | carrots | <audio src="../audio/680.mp3" controls></audio> |
-| 681 | Ʌsatnʌstatate’ kʌ nén onʌhakʌ́:late̲ | Are you going to dry the Indian corn? | <audio src="../audio/681.mp3" controls></audio> |
-| 682 | Hʌ: tho’ nʌ ʌwá:tu né: ʌkatlanú:ni̲ | Yes, then I can make cornsoup | <audio src="../audio/682.mp3" controls></audio> |
-| 683 | Ʌwá:tu kʌ alá:sek wá:yat ʌsatna’talú:ni̲ | Can you make elderberry pie? | <audio src="../audio/683.mp3" controls></audio> |
-| 684 | Ʌsatsható: kʌ nén yonu’slaké:tote̲’ | Are you going to bury the squash? | <audio src="../audio/684.mp3" controls></audio> |
-| 685 | Tah oksa' ki' né: ʌkna’tishalʌ̲ | No, I'm going to boil it right away. | <audio src="../audio/685.mp3" controls></audio> |
-| 686 | shékoli | hello | <audio src="../audio/686.mp3" controls></audio> |
-| 687 | tetwatunʌhelá:tu kakhwa’shuha̲ | we give thanks for these foods | <audio src="../audio/687.mp3" controls></audio> |
-| 688 | yehnikihlatha’ ó:wise̲’ | drinking glass | <audio src="../audio/688.mp3" controls></audio> |
-| 689 | yehnikihlatha̲’ | drinking mug | <audio src="../audio/689.mp3" controls></audio> |
-| 690 | atsí | dinner plate | <audio src="../audio/690.mp3" controls></audio> |
-| 691 | atokwat | spoon | <audio src="../audio/691.mp3" controls></audio> |
-| 692 | ashale̲’ | knife | <audio src="../audio/692.mp3" controls></audio> |
-| 693 | ashekwe̲’ | fork | <audio src="../audio/693.mp3" controls></audio> |
-| 694 | yutshokewatha̲’ | napkin | <audio src="../audio/694.mp3" controls></audio> |
-| 695 | yutsholyatha̲’ | bowl | <audio src="../audio/695.mp3" controls></audio> |
-| 696 | Tsha’tekohsélha̲’ | February (Midwinter) | <audio src="../audio/696.mp3" controls></audio> |
-| 697 | Tewʌhníslya’ks | March (the day is cut in two) | <audio src="../audio/697.mp3" controls></audio> |
-| 698 | Wahsakayu:té:se̲’ | April (it’s thundering) | <audio src="../audio/698.mp3" controls></audio> |
-| 699 | Latiyʌ́thos | May (they plant) | <audio src="../audio/699.mp3" controls></audio> |
-| 700 | Awʌhíhte̲’ | June (strawberries) | <audio src="../audio/700.mp3" controls></audio> |
-| 701 | Ohyótshel̲i̲’ | July (green beans) | <audio src="../audio/701.mp3" controls></audio> |
-| 702 | Onʌ́stase̲’ | August (new corn) | <audio src="../audio/702.mp3" controls></audio> |
-| 703 | Yeyʌthókwas | September (someone harvests) | <audio src="../audio/703.mp3" controls></audio> |
-| 704 | Yutékhwayʌh̲e̲’ | October (someone store's food) | <audio src="../audio/704.mp3" controls></audio> |
-| 705 | Tehutʌnuhela:túh̲e̲’ | November (they give thanks) | <audio src="../audio/705.mp3" controls></audio> |
-| 706 | Wahsu:tés | December (it's a long night) | <audio src="../audio/706.mp3" controls></audio> |
-| 707 | Teyakohúhtya'ks | January (someone’s ears are freezing) | <audio src="../audio/707.mp3" controls></audio> |
 | 708 | ʌshatshá:tu̲ | bury it | <audio src="../audio/708.mp3" controls></audio> |
-| 709 | uská | one | <audio src="../audio/709.mp3" controls></audio> |
-| 710 | tékeni̲ | two | <audio src="../audio/710.mp3" controls></audio> |
-| 711 | ahsʌ̲́ | three | <audio src="../audio/711.mp3" controls></audio> |
-| 712 | kayé: | four | <audio src="../audio/712.mp3" controls></audio> |
-| 713 | wisk | five | <audio src="../audio/713.mp3" controls></audio> |
-| 714 | yá:yak | six | <audio src="../audio/714.mp3" controls></audio> |
-| 715 | tsyá:tak | seven | <audio src="../audio/715.mp3" controls></audio> |
-| 716 | teklu’ | eight | <audio src="../audio/716.mp3" controls></audio> |
-| 717 | wá:tlu’ | nine | <audio src="../audio/717.mp3" controls></audio> |
-| 718 | oyé:li̲ | ten | <audio src="../audio/718.mp3" controls></audio> |
 | 719 | hao satketsko̲ | come on, get up! | <audio src="../audio/719.mp3" controls></audio> |
 | 720 | nʌki’ wa’katketsko̲ | are you up? | <audio src="../audio/720.mp3" controls></audio> |
 | 721 | hʌ́:ʌ nʌki’ wa’katketsko̲ | yes, I am up | <audio src="../audio/721.mp3" controls></audio> |
@@ -784,7 +934,33 @@
 | 765 | yotunisu | it is ripe | <audio src="../audio/765.mp3" controls></audio> |
 | 766 | aetwasahé:taku̲ | to pick beans | <audio src="../audio/766.mp3" controls></audio> |
 | 767 | ohyótsheli̲ | butter beans | <audio src="../audio/767.mp3" controls></audio> |
-| 768 | É:lhal khále’ takós ki’ swatyehlʌ kanúsku ni nákehle̲’ | sometimes the dog and cat live in the house | <audio src="../audio/768.mp3" controls></audio> |
+| 768 | É:lhal khále’ takós ki’ swatyehlʌ kanúsku ni nákehle̲’ | sometimes the dog and cat live in the house 272
+| 189 | kutilyoh | wild animal | <audio src="../audio/189.mp3" controls></audio> |
+| 190 | Luto:lats | They are hunting. | <audio src="../audio/190.mp3" controls></audio> |
+| 191 | We:ne ki’ wah | I think so | <audio src="../audio/191.mp3" controls></audio> |
+| 193 | Kwa’nyohkwi: satshá:nit | Boy, you are a good worker! | <audio src="../audio/193.mp3" controls></audio> |
+| 195 | Wa’katahusatata’ ki’ nén kalihwí:yo̲ | I am going to listen to the good message. | <audio src="../audio/195.mp3" controls></audio> |
+| 196 | Hʌ  ok ni’í:se̲ | Yes, how about you? | <audio src="../audio/196.mp3" controls></audio> |
+| 197 | Kanuhsésne kʌ wáhse̲’ | Are you going to the longhouse? | <audio src="../audio/197.mp3" controls></audio> |
+| 201 | tehútkwa̲’ | dancers | <audio src="../audio/201.mp3" controls></audio> |
+| 192 | Thokʌ wahse’ tsi’ tehútkwa̲’ | Are you going to where they are dancing? | <audio src="../audio/192.mp3" controls></audio> |
+| 203 | kalihwíy̲o̲ | good message | <audio src="../audio/203.mp3" controls></audio> |
+| 204 | kanushésn̲e̲ | longhouse | <audio src="../audio/204.mp3" controls></audio> |
+| 205 | kʌtyóhkwa̲ | people | <audio src="../audio/205.mp3" controls></audio> |
+| 207 | Yʌhʌshawe’ kʌ onu’usláko yetsistalakhwa̲’ | Are you going to take a pumpkin lantern? | <audio src="../audio/207.mp3" controls></audio> |
+| 208 | Hʌ wé:ne kwi laskan akwʌnya’ ʌkatse̲’ | Yes I’m going to put on a skeleton costume. | <audio src="../audio/208.mp3" controls></audio> |
+| 209 | Ʌsahste’ kʌ yohtlut akwʌnya’ | Are you going to wear a scary costume? | <audio src="../audio/209.mp3" controls></audio> |
+| 210 | Nʌ ki’ ya’kahewe’ nén ahalihwahsahw̲ʌ̲ | It is now time to tell of the male responsibility. | <audio src="../audio/210.mp3" controls></audio> |
+| 211 | Nʌ ki’ kanana’kene nʌ ya’kahewe’ ahutekhwaló:loke̲’ | It is now fall or the start of the male season and it is time to have a feast. | <audio src="../audio/211.mp3" controls></audio> |
+| 212 | yutkuhsolokta̲’ | mask | <audio src="../audio/212.mp3" controls></audio> |
+| 213 | ahsʌ niwashʌ uska | thirty first | <audio src="../audio/213.mp3" controls></audio> |
+| 214 | tetyó:kalahse̲’ | dark night | <audio src="../audio/214.mp3" controls></audio> |
+| 215 | laskan | skeleton or ancestors gone ahead | <audio src="../audio/215.mp3" controls></audio> |
+| 216 | onu’uslako: | pumpkin | <audio src="../audio/216.mp3" controls></audio> |
+| 217 | yohtlut akwʌnya’ | scary costume | <audio src="../audio/217.mp3" controls></audio> |
+| 218 | lathʌtó:lihe̲’ | scarecrow | <audio src="../audio/218.mp3" controls></audio> |
+| 219 | yohsutáhtlut | halloween  or hallows eve | <audio src="../audio/219.mp3" controls></audio> |
+| 220 | ʌhalihwahsahw̲ʌ̲ | Tells of male responsibility. | <audio src="../audio/220.mp3" controls></audio> || <audio src="../audio/768.mp3" controls></audio> |
 | 769 | Kátsha’ kayʌ kanúsku kutinakehle̲’ | which ones live in the house? | <audio src="../audio/769.mp3" controls></audio> |
 | 770 | Otyake’ ki’ kanúsku kutinakehle̲’ | some live in the house(animals) | <audio src="../audio/770.mp3" controls></audio> |
 | 771 | Kátsha’ káti’ né: nú: nikutinakehle’ nén katshé:nʌ̲: | where do the domestic animals live? | <audio src="../audio/771.mp3" controls></audio> |
@@ -792,13 +968,6 @@
 | 773 | katshé:nʌ̲ | domestic animals | <audio src="../audio/773.mp3" controls></audio> |
 | 774 | skʌhnaksʌ̲ | fox | <audio src="../audio/774.mp3" controls></audio> |
 | 775 | kutilyo’shúha̲ | wild animals | <audio src="../audio/775.mp3" controls></audio> |
-| 776 | ashʌ ki’ né: nahoti’talake nén Onʌyota’á:ka | Oneida people have three clans | <audio src="../audio/776.mp3" controls></audio> |
-| 777 | thayú:ni né: na’ako’taló:tʌ nén aksotha̲ | wolf is my grandmother’s clan | <audio src="../audio/777.mp3" controls></audio> |
-| 778 | náhte’ kati né: na’ako’taló:tʌ nén sahsotha̲ | what is your grandmother’s clan? | <audio src="../audio/778.mp3" controls></audio> |
-| 779 | a’nó:wal né: naho’taló:tʌ nén lake’niha̲ | turtle is my fathers clan | <audio src="../audio/779.mp3" controls></audio> |
-| 780 | ok nen ya’niha náhte’ né: naho’taló:tʌ̲’ | what about your father, what is his clan? | <audio src="../audio/780.mp3" controls></audio> |
-| 781 | Hʌ  ohkwá:li ki’ né: na’ako’taló:tʌ’ nén aknulha | yes, my mother’s clan is bear | <audio src="../audio/781.mp3" controls></audio> |
-| 782 | Sanúte’ kʌ náhte’ na’ako’taló:tʌ’ nén sanulha | do you know what your mother’s clan is? | <audio src="../audio/782.mp3" controls></audio> |
 | 783 | Teyakohúhtyaks wʌhni’tatati | freezing ears month - January | <audio src="../audio/783.mp3" controls></audio> |
 | 784 | á:se yohslá:te̲ | new year | <audio src="../audio/784.mp3" controls></audio> |
 | 785 | í:kelhe’ ashuthu kʌ ʌtutasawʌ̲ | I thought they start at midnight | <audio src="../audio/785.mp3" controls></audio> |
@@ -808,45 +977,15 @@
 | 789 | ʌsatú:ni káti kʌ nén oyá:n kaya’tú:ni̲ | are you going to make a doughnut doll? | <audio src="../audio/789.mp3" controls></audio> |
 | 790 | hʌ né: ki’ kanutuynúhe̲’ | yes, I’m thinking about it | <audio src="../audio/790.mp3" controls></audio> |
 | 791 | satunya:ne’ kʌ nén oyá:n | are you going to make doughnuts? | <audio src="../audio/791.mp3" controls></audio> |
-| 793 | wa’yólhʌne̲ | come morning | <audio src="../audio/793.mp3" controls></audio> |
-| 794 | kwahsutati | all night | <audio src="../audio/794.mp3" controls></audio> |
-| 795 | tayolhʌ’hati | coming daylight | <audio src="../audio/795.mp3" controls></audio> |
-| 796 | ahsuthu̲ | midnight | <audio src="../audio/796.mp3" controls></audio> |
 | 797 | lutlʌnayʌnese̲’ | they go to church | <audio src="../audio/797.mp3" controls></audio> |
 | 798 | oyá:n kaya’túni̲ | doughnut doll | <audio src="../audio/798.mp3" controls></audio> |
 | 799 | oyá:n | doughnut | <audio src="../audio/799.mp3" controls></audio> |
-| 800 | onhéhta̲ | porcupine | <audio src="../audio/800.mp3" controls></audio> |
-| 801 | tsyoní:tu̲’ | beaver | <audio src="../audio/801.mp3" controls></audio> |
-| 802 | oná:kʌt | groundhog | <audio src="../audio/802.mp3" controls></audio> |
-| 803 | ska’nyúhsa̲’ | moose | <audio src="../audio/803.mp3" controls></audio> |
-| 804 | satuhkalyáks kʌh | are you hungry? | <audio src="../audio/804.mp3" controls></audio> |
-| 805 | hao’ satekhú:ni̲ | come and eat | <audio src="../audio/805.mp3" controls></audio> |
-| 806 | hao’ swatekhú:ni̲ | all of you come and eat | <audio src="../audio/806.mp3" controls></audio> |
-| 807 | náhte’ isle’ asék | what do you want to eat? | <audio src="../audio/807.mp3" controls></audio> |
-| 808 | náhte’ isle’ asnikí:la̲ | what do you want to drink? | <audio src="../audio/808.mp3" controls></audio> |
 | 809 | isle’ kʌh | do you want...? | <audio src="../audio/809.mp3" controls></audio> |
 | 810 | yawʌ’kó: | a big thank you | <audio src="../audio/810.mp3" controls></audio> |
 | 811 | yó: | your welcome | <audio src="../audio/811.mp3" controls></audio> |
 | 812 | hʌ́: né: wah | yes, that is it | <audio src="../audio/812.mp3" controls></audio> |
 | 813 | tah yah tʌh | no, that is not it | <audio src="../audio/813.mp3" controls></audio> |
 | 814 | yah te’ wáki | I don’t have any | <audio src="../audio/814.mp3" controls></audio> |
-| 815 | owistohsehl̲e̲ | butter | <audio src="../audio/815.mp3" controls></audio> |
-| 816 | tsyohyó:tsis | salt | <audio src="../audio/816.mp3" controls></audio> |
-| 817 | onúkwat | pepper | <audio src="../audio/817.mp3" controls></audio> |
-| 818 | ohnaná:ta̲ | potato | <audio src="../audio/818.mp3" controls></audio> |
-| 819 | o’walu̲’ | meat | <audio src="../audio/819.mp3" controls></audio> |
-| 820 | osahéth̲a̲ | beans | <audio src="../audio/820.mp3" controls></audio> |
-| 821 | onʌste̲’ | corn | <audio src="../audio/821.mp3" controls></audio> |
-| 822 | ohné:kanus | water | <audio src="../audio/822.mp3" controls></audio> |
-| 823 | ohnuta̲ | milk | <audio src="../audio/823.mp3" controls></audio> |
-| 824 | swahyó:wan̲e̲ | apple | <audio src="../audio/824.mp3" controls></audio> |
-| 825 | tewahyakháni | tomato | <audio src="../audio/825.mp3" controls></audio> |
-| 826 | á:nuk | onion | <audio src="../audio/826.mp3" controls></audio> |
-| 827 | wá:yat | pie | <audio src="../audio/827.mp3" controls></audio> |
-| 828 | kaná:talok | (store bought) bread | <audio src="../audio/828.mp3" controls></audio> |
-| 829 | kakhwa’shúh̲a̲ | foods | <audio src="../audio/829.mp3" controls></audio> |
-| 830 | yaweku kʌh | does it taste good? | <audio src="../audio/830.mp3" controls></audio> |
-| 831 | katsi’nkwalahu:tsi | orange | <audio src="../audio/831.mp3" controls></audio> |
 | 832 | satla’swiyóhak | good luck! | <audio src="../audio/832.mp3" controls></audio> |
 | 833 | wáhse̲ | go on | <audio src="../audio/833.mp3" controls></audio> |
 | 834 | waski’wáh | go on then | <audio src="../audio/834.mp3" controls></audio> |
@@ -873,25 +1012,6 @@
 | 855 | tehsalahtahkwanétasi̲ | take you boots off | <audio src="../audio/855.mp3" controls></audio> |
 | 856 | tutatsyatayat ó:nʌ̲ | you two come back in now | <audio src="../audio/856.mp3" controls></audio> |
 | 857 | tutasatayat ó:nʌ̲ | you come back in now | <audio src="../audio/857.mp3" controls></audio> |
-| 858 | wale:lú̲ | frog | <audio src="../audio/858.mp3" controls></audio> |
-| 859 | ohna’kwalohsa’kó: | elephant | <audio src="../audio/859.mp3" controls></audio> |
-| 860 | tsikawihsakíh̲a̲’ | monkey | <audio src="../audio/860.mp3" controls></audio> |
-| 861 | aní:tas | skunk | <audio src="../audio/861.mp3" controls></audio> |
-| 862 | kwalo:lú̲ | owl | <audio src="../audio/862.mp3" controls></audio> |
-| 863 | atú:nyote̲’ | eagle | <audio src="../audio/863.mp3" controls></audio> |
-| 864 | ʌti:lu̲ | raccoon | <audio src="../audio/864.mp3" controls></audio> |
-| 865 | ótku̲’ | snake | <audio src="../audio/865.mp3" controls></audio> |
-| 866 | otsi’no:wʌ̲ | mouse | <audio src="../audio/866.mp3" controls></audio> |
-| 867 | tsi’kwilʌ́:tu̲ | squirrel | <audio src="../audio/867.mp3" controls></audio> |
-| 868 | kohsa:tʌ́s | horse | <audio src="../audio/868.mp3" controls></audio> |
-| 869 | othahyu:ní̲ | wolf | <audio src="../audio/869.mp3" controls></audio> |
-| 870 | kʌ́tsi | fish | <audio src="../audio/870.mp3" controls></audio> |
-| 871 | é:lhal | dog | <audio src="../audio/871.mp3" controls></audio> |
-| 872 | tsiskó:ko’ | robin | <audio src="../audio/872.mp3" controls></audio> |
-| 873 | kwa’yʌ́h̲a̲ | rabbit | <audio src="../audio/873.mp3" controls></audio> |
-| 874 | takós | cat | <audio src="../audio/874.mp3" controls></audio> |
-| 875 | oskanu:tú̲: | deer | <audio src="../audio/875.mp3" controls></audio> |
-| 876 | ohkwa:lí̲ | bear | <audio src="../audio/876.mp3" controls></audio> |
 | 877 | tsyatsyóhal | you two wash your face | <audio src="../audio/877.mp3" controls></audio> |
 | 878 | sahtsyóhal | wash your hands | <audio src="../audio/878.mp3" controls></audio> |
 | 879 | tsyatnawilóhal | you two brush your teeth | <audio src="../audio/879.mp3" controls></audio> |
@@ -911,16 +1031,6 @@
 | 893 | tsyatketsko ó:nʌ̲ | you two get up now | <audio src="../audio/893.mp3" controls></audio> |
 | 894 | satketsko ó:nʌ̲ | get up now | <audio src="../audio/894.mp3" controls></audio> |
 | 895 | tsyanuhwetha ó:nʌ̲ | you two go to bed now | <audio src="../audio/895.mp3" controls></audio> |
-| 896 | ohalanʌ́:t̲a̲’ | purple | <audio src="../audio/896.mp3" controls></audio> |
-| 897 | awʌ́:la̲ | green | <audio src="../audio/897.mp3" controls></audio> |
-| 898 | owiskela̲’ | white | <audio src="../audio/898.mp3" controls></audio> |
-| 899 | athehsa̲’ | brown | <audio src="../audio/899.mp3" controls></audio> |
-| 900 | otsí:nkwal | yellow | <audio src="../audio/900.mp3" controls></audio> |
-| 901 | ata’kʌla̲’ | grey | <audio src="../audio/901.mp3" controls></audio> |
-| 902 | sanuhwetha ó:nʌ̲ | You go to bed now. | <audio src="../audio/902.mp3" controls></audio> |
-| 903 | a'no:wál | turtle | <audio src="../audio/903.mp3" controls></audio> |
-| 904 | olú:ya̲’ | Blue | <audio src="../audio/904.mp3" controls></audio> |
-| 905 | oswʌ́:ta̲’ | black | <audio src="../audio/905.mp3" controls></audio> |
 | 906 | Yaweku' se'wah | It sure is good | <audio src="../audio/906.mp3" controls></audio> |
 | 907 | Kwa’ nyo uhte wahyáku | The berries must be real good | <audio src="../audio/907.mp3" controls></audio> |
 | 908 | Tákʌ kwi ʌsesa’nikulhʌ yʌsanutaklitslú:ti̲ | Don't forget to add sugar | <audio src="../audio/908.mp3" controls></audio> |
@@ -930,9 +1040,7 @@
 | 912 | Nʌ ki’ yahkahewe’ tsi’ niyuhyawas nén awʌhíhte̲’ | It's now time to pick strawberries. | <audio src="../audio/912.mp3" controls></audio> |
 | 913 | teyonutaklítslale̲’ | It's sweet. | <audio src="../audio/913.mp3" controls></audio> |
 | 914 | yotahyú:ni̲ | Lots of berries | <audio src="../audio/914.mp3" controls></audio> |
-| 915 | onutakeli̲ | Sugar | <audio src="../audio/915.mp3" controls></audio> |
 | 916 | wahyohwá:nʌse̲’ | Big berries | <audio src="../audio/916.mp3" controls></audio> |
 | 917 | wahyáku | Good fruit | <audio src="../audio/917.mp3" controls></audio> |
-| 918 | onikwʌtahla̲’ | Red | <audio src="../audio/918.mp3" controls></audio> |
 | 919 | kʌ’niyohʌtésha̲’ | Short plant | <audio src="../audio/919.mp3" controls></audio> |
 | 920 | awʌhíhte̲’ | Strawberry | <audio src="../audio/920.mp3" controls></audio> |
