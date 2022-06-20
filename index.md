@@ -927,4 +927,4 @@ Work in progress, please come back to this page at a later date and it should be
 | 919 | "kʌ’niyohʌtésha̲’" | "Short plant" | "./audio/919.mp3" |
 | 920 | "awʌhíhte̲’" | "Strawberry" | "./audio/920.mp3" |
 
-<audio src="audio/1.mp3" controls></audio>
+<audio src="./audio/1.mp3" controls></audio>
