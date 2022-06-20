@@ -1,4 +1,4 @@
-# CSV File of Oneida (Canada) Words and Phrases
+# Oneida (Canada) Words and Phrases
 [Github Pages](https://cutthroat78.github.io/Oneida-Canada-Words-and-Phrases/)
 
 A CSV Oneida (Canada) file with words and Phrases from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
