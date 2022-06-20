@@ -13,3 +13,5 @@ The audio folder is full of mp3 recordings of the Oneida words and phrases/side 
 - [ ] Try and get github pages to play mp3 files
 - [ ] CSV file is full words and phrases, markdown will have full and sections versions
 - [ ] Redo readme.md and index.md with all info explaining this whole repo (including how to use main.py)
+- [ ] Move All words and phrases to seperate page from index.md
+- [ ] Remove double quotes around markdown strings in Oneida and English Section
