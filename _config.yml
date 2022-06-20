@@ -1,5 +1,7 @@
 remote_theme: "dracula/gh-pages"
 author: "CutThroat78"
+title: "Oneida (Canada) Words & Phrases"
+description: "A website full of words & phrases for the Oneida (Canada) language"
 show_downloads: false
 github:
    is_project_page: false
