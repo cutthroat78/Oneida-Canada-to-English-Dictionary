@@ -1,4 +1,6 @@
-This website if full of words & phrases for the Oneida (Canada)
+# Oneida (Canada) Words & Phrases
+
+This website if full of words & phrases for the Oneida (Canada) language
 
 All words & phrases on this website comes from this [website](https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/)
 
