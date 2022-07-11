@@ -27,7 +27,7 @@
   - [Graduation](markdown/school.md#graduation)
 - [Celebrations](markdown/celebrations.md)
   - [New Year's](markdown/celebrations.md#new-years)
-  - [The Fair](markdown/celebrations.md#the-fairs)
+  - [The Fair](markdown/celebrations.md#the-fair)
   - [Thanksgiving](markdown/celebrations.md#thanksgiving)
   - [Halloween](markdown/celebrations.md#halloween)
   - [Christmas](markdown/celebrations.md#christmas)
