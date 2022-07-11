@@ -2,8 +2,8 @@
 
 # All Words and Phrases
 
-| ID | Oneida | English | Audio File |
-|---|---|---|---|
+| ID | Oneida | English | Audio File | Category |
+|---|---|---|---|---|
 | 1 | Tho yʌkéhseke’ | Will you be there? | <audio src="../audio/1.mp3" controls></audio> |
 | 2 | Kátsha’ yʌséhseke’ | Where will you be? | <audio src="../audio/2.mp3" controls></audio> |
 | 3 | tho kʌ yeheséskwe’ | Were you there? | <audio src="../audio/3.mp3" controls></audio> |
@@ -486,7 +486,7 @@
 | 480 | ʌwatú:kʌ akuya’takenha̲’ | can I help you? | <audio src="../audio/480.mp3" controls></audio> |
 | 481 | shekoli skʌna’kó: kʌ́ | hello, are you at peace? | <audio src="../audio/481.mp3" controls></audio> |
 | 482 | kheya'takenhas ukwe:hu:we̲ | helping the original people | <audio src="../audio/482.mp3" controls></audio> |
-| 483 | wahsakayu:tese̲’ | thundering (month) | <audio src="../audio/483.mp3" controls></audio> |
+| 483 | wahsakayu:tese̲’ | thundering | <audio src="../audio/483.mp3" controls></audio> |
 | 484 | luhyohkawí:nese̲’ | they are fishing | <audio src="../audio/484.mp3" controls></audio> |
 | 485 | latitsyayé:nas | they are catching fish | <audio src="../audio/485.mp3" controls></audio> |
 | 486 | kayʌhakta | near the river | <audio src="../audio/486.mp3" controls></audio> |

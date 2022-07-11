@@ -1,14 +1,15 @@
-# Oneida (Canada) Words and Phrases
+# Oneida (Canada) Wordlist
 [Github Pages](https://cutthroat78.github.io/Oneida-Canada-Words-and-Phrases/)
 
-A CSV Oneida (Canada) file with words and Phrases from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
+A CSV and markdown Oneida (Canada) wordlist from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
 
-main.py is the python program I used to generate the csv file
+CSV is just all of the wordlist, while markdown has all and categories
 
-The audio folder is full of mp3 recordings of the Oneida words and phrases/side of the csv file. To find the recording of a Oneida word/phrase, just like for a file with the same names at the Oneida word/phrase as it is in the csv file
+main.py is the python program I used to generate the csv file. Change the file variable in the file to change the output file name and change the URL for the page/category for it to scrape
+
+The audio folder is full of mp3 recordings of the Oneida words and phrases/side in the csv and markdown wordlist. To find the recording of a Oneida word/phrase, just look for a file with the same ID as the Oneida word/phrase
 
 # To Do
-- [ ] CSV file is full words and phrases, markdown will have full and sections versions
-- [ ] Redo readme.md and index.md with all info explaining this whole repo (including how to use main.py)
-- [ ] Move All words and phrases to seperate page from index.md
-- [ ] Find better theme for website (and maybe font for the underlines to look like they match up with the right letter)
+- [ ] Find better theme or font for website, so that underlines appear underneath the letters they are attached to
+- [ ] Add Categories column to all.md and add categories to each entry
+- [ ] Test markdown links that use # to open page on certain heading
