@@ -12,4 +12,3 @@ The audio folder is full of mp3 recordings of the Oneida words and phrases/side 
 # To Do
 - [ ] Find better theme or font for website, so that underlines appear underneath the letters they are attached to
 - [ ] Add Categories column to all.md and add categories to each entry
-- [ ] Test markdown links that use # to open page on certain heading
