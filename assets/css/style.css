@@ -1,7 +1,3 @@
-html,body,table {
-    font-family: Helvetica, Arial
-}
-
-@font-face {
+td {
     font-family: Helvetica, Arial
 }
