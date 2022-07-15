@@ -24,9 +24,6 @@
 | 58 | Oyu’kwa’uwe né: lutsta’ nén ukwehuwe nʌ tʌhatitalʌ nén shukwaya’tisu’ | Native people use Indian tobacco when they talk to the Creator. | <audio src="../audio/58.mp3" controls></audio> |
 | 59 | Teyotskalatko: | Smartweed | <audio src="../audio/59.mp3" controls></audio> |
 
-| 14 | Hʌ né: ki’ kanutunyúhe̲’ | Yes I’m thinking about it. | <audio src="../audio/14.mp3" controls></audio> |
-| 15 | Hʌ́: né: ki’ í:kehlhe̲’ | Yes, I wanted to. | <audio src="../audio/15.mp3" controls></audio> |
-
 | 60 | Sáyʌ: kʌ | Do you have _____? | <audio src="../audio/60.mp3" controls></audio> |
 
 | 63 | watahslóte̲’ | stick standing | <audio src="../audio/63.mp3" controls></audio> |
@@ -59,15 +56,6 @@
 | 317 | Laksótha wahahkalotʌ nén wáhta kalútote̲’ | my grandfather tapped the maple tree. | <audio src="../audio/317.mp3" controls></audio> |
 | 318 | Né: kʌ nén kwah ok thikuné:se’ ótsitsi | is it the wild flowers? | <audio src="../audio/318.mp3" controls></audio> |
 | 319 | Hao’ tsi’ kalhayʌ’ yeheten tnitsi’tsyakóna̲ | let’s go to the forest to gather flowers. | <audio src="../audio/319.mp3" controls></audio> |
-
-| 323 | o’nú:w̲a̲: | strips of black ash | <audio src="../audio/323.mp3" controls></audio> |
-| 324 | ká:nʌhe̲’ | seed | <audio src="../audio/324.mp3" controls></audio> |
-| 325 | kaská:wayʌ̲’ | bushes | <audio src="../audio/325.mp3" controls></audio> |
-| 326 | onláhte̲’ | leaf | <audio src="../audio/326.mp3" controls></audio> |
-| 327 | kalhayʌ’ | forest | <audio src="../audio/327.mp3" controls></audio> |
-| 328 | o:nháhte̲’ | unattached branch | <audio src="../audio/328.mp3" controls></audio> |
-| 329 | yo'nháhtot̲e̲’ | attached branch | <audio src="../audio/329.mp3" controls></audio> |
-| 330 | Takʌ só:tsi’ akta nyʌhʌse’ tsi’ tkalutóte’ nén aslók | don’t go near the thorn tree. | <audio src="../audio/330.mp3" controls></audio> |
 
 | 369 | Náhte’ né: yotlihute̲ | What is it used for? | <audio src="../audio/369.mp3" controls></audio> |
 

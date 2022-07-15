@@ -22,6 +22,14 @@
 | 377 | otshohkhwi̲ | blueberry | <audio src="../audio/377.mp3" controls></audio> |
 | 378 | teyothutá:ktu̲ | blackcap | <audio src="../audio/378.mp3" controls></audio> |
 | 379 | shá:yese̲’ | thimbleberry | <audio src="../audio/379.mp3" controls></audio> |
+| 323 | o’nú:w̲a̲: | strips of black ash | <audio src="../audio/323.mp3" controls></audio> |
+| 324 | ká:nʌhe̲’ | seed | <audio src="../audio/324.mp3" controls></audio> |
+| 325 | kaská:wayʌ̲’ | bushes | <audio src="../audio/325.mp3" controls></audio> |
+| 326 | onláhte̲’ | leaf | <audio src="../audio/326.mp3" controls></audio> |
+| 327 | kalhayʌ’ | forest | <audio src="../audio/327.mp3" controls></audio> |
+| 328 | o:nháhte̲’ | unattached branch | <audio src="../audio/328.mp3" controls></audio> |
+| 329 | yo'nháhtot̲e̲’ | attached branch | <audio src="../audio/329.mp3" controls></audio> |
+| 330 | Takʌ só:tsi’ akta nyʌhʌse’ tsi’ tkalutóte’ nén aslók | don’t go near the thorn tree. | <audio src="../audio/330.mp3" controls></audio> |
 
 ## Trees
 
