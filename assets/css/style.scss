@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 body {
     font-family: Helvetica, Arial
 }
+
+@import "{{ site.theme }}";
