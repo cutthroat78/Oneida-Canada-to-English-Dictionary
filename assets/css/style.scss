@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-html {
+html,body,table {
+    font-family: Helvetica, Arial
+}
+
+@font-face {
     font-family: Helvetica, Arial
 }
