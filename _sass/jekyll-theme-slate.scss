@@ -21,6 +21,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font: inherit;
+  font-family: Helvetica, Arial;
   vertical-align: baseline;
 }
 
@@ -235,13 +236,14 @@ table {
  }
 
 th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial;
   padding: 10px;
   background: #373737;
   color: #fff;
  }
 
 td {
+  font-family: Helvetica, Arial;
   padding: 10px;
   border: 1px solid #373737;
  }
