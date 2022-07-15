@@ -54,3 +54,38 @@
 | 320 | óshes | sap or syrup | <audio src="../audio/320.mp3" controls></audio> |
 | 321 | kalutó:tu̲: | group of trees | <audio src="../audio/321.mp3" controls></audio> |
 | 322 | kelhíhte̲’ | forest trees | <audio src="../audio/322.mp3" controls></audio> |
+
+## Planting
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 745 | sayʌ́th̲o̲ | you have planted | <audio src="../audio/745.mp3" controls></audio> |
+| 746 | wakyʌ́tho | I have planted | <audio src="../audio/746.mp3" controls></audio> |
+| 747 | á:utunisan̲e̲’ | to mature (or ripen) | <audio src="../audio/747.mp3" controls></audio> |
+| 748 | tetsyá:lu̲ | both | <audio src="../audio/748.mp3" controls></audio> |
+| 749 | yahakwa tewakʌtí:yo̲ | my crop is not very good | <audio src="../audio/749.mp3" controls></audio> |
+| 750 | kahʌtí:yo̲ | a good crop | <audio src="../audio/750.mp3" controls></audio> |
+| 765 | yotunisu | it is ripe | <audio src="../audio/765.mp3" controls></audio> |
+| 766 | aetwasahé:taku̲ | to pick beans | <audio src="../audio/766.mp3" controls></audio> |
+| 757 | nʌ kyále’ yakahéwe’ aetwasahé:taku ohyotshél̲i̲ | it is time to pick butter beans | <audio src="../audio/757.mp3" controls></audio> |
+| 767 | ohyótsheli̲ | butter beans | <audio src="../audio/767.mp3" controls></audio> |
+| 755 | hʌ́: nʌ sok wah | yes, they are ripe already | <audio src="../audio/755.mp3" controls></audio> |
+| 756 | okna’ kʌ yotunisu | is it ripe already? | <audio src="../audio/756.mp3" controls></audio> |
+
+## Corn
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 734 | ʌtehsatekhunyá:na kwí: nʌ ʌwatunisán̲e̲’ | you come over and eat when the corn gets ripe | <audio src="../audio/734.mp3" controls></audio> |
+| 735 | né: ki’ ok ní: onʌhakʌ́:lat wakyʌtho̲ | all I planted is Indian corn | <audio src="../audio/735.mp3" controls></audio> |
+| 736 | okni’í:se tetsyalu kʌ sayʌtho̲ | and did you plant both kinds? | <audio src="../audio/736.mp3" controls></audio> |
+| 737 | tetsyalu kwí: wakyʌtho kanʌhʌ:ta’ khále’ onʌhakʌláte̲’ | I planted both kinds, sweet corn and Indian corn | <audio src="../audio/737.mp3" controls></audio> |
+| 738 | nʌ ki’ thoha á:utunisan ka’í:kʌ ó:nʌste̲’ | the corn is almost ripe | <audio src="../audio/738.mp3" controls></audio> |
+| 739 | hʌ́: nok tsi’ yahakwa tewakʌtí:yo̲ | yes I did but it didn’t come up to good | <audio src="../audio/739.mp3" controls></audio> |
+| 740 | tsi' niwakahʌtí:yo ó:nʌste sanʌstayʌtho kʌ ni í:s̲e̲ | I have a real good crop of corn, did you plant corn? | <audio src="../audio/740.mp3" controls></audio> |
+| 741 | kaheló:tu̲ | rows of corn | <audio src="../audio/741.mp3" controls></audio> |
+| 742 | ohel̲a̲ | corn stalk | <audio src="../audio/742.mp3" controls></audio> |
+| 743 | kanʌhʌta̲ | dried sweet corn | <audio src="../audio/743.mp3" controls></audio> |
+| 744 | onʌhakʌ́:late̲’ | Indian corn | <audio src="../audio/744.mp3" controls></audio> |
+| 751 | onʌstáse̲’ | green corn | <audio src="../audio/751.mp3" controls></audio> |
+| 602 | onʌste’ yunyá:tu | it is made from corn | <audio src="../audio/602.mp3" controls></audio> |

@@ -30,6 +30,7 @@
 | 232 | Ukwehuwé:ne ni: teknákehl̲e̲ | I reside on the reserve. | <audio src="../audio/232.mp3" controls></audio> |
 | 233 | ukwehú:w̲e̲ | original person | <audio src="../audio/233.mp3" controls></audio> |
 | 234 | Kátsha' nu: tesnákehl̲e̲ | Where do you reside? | <audio src="../audio/234.mp3" controls></audio> |
+| 797 | lutlʌnayʌnese̲’ | they go to church | <audio src="../audio/797.mp3" controls></audio> |
 
 ## Being Somewhere
 

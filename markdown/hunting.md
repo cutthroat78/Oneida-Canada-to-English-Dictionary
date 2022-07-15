@@ -54,3 +54,6 @@
 | 538 | kayu:kwíl̲e̲’ | arrow | <audio src="../audio/538.mp3" controls></audio> |
 | 539 | a’ʌ:ná̲ | bow | <audio src="../audio/539.mp3" controls></audio> |
 | 540 | káhul̲e̲’ | gun | <audio src="../audio/540.mp3" controls></audio> |
+| 772 | Kalhaku né: kutinakehle’ nén kutilyó’shuha̲ | wild animals live in the forest | <audio src="../audio/772.mp3" controls></audio> |
+| 774 | skʌhnaksʌ̲ | fox | <audio src="../audio/774.mp3" controls></audio> |
+| 775 | kutilyo’shúha̲ | wild animals | <audio src="../audio/775.mp3" controls></audio> |

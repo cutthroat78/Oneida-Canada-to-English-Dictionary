@@ -1,5 +1,5 @@
 # Oneida (Canada) Wordlist
-[Github Pages](https://cutthroat78.github.io/Oneida-Canada-Words-and-Phrases/)
+[Github Pages](https://cutthroat78.github.io/Oneida-Canada-Wordlist)
 
 A CSV and markdown Oneida (Canada) wordlist from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
 

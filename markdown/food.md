@@ -96,6 +96,9 @@
 | 601 | teyonutatkitslale’shuh̲a̲ | candies or any sweets | <audio src="../audio/601.mp3" controls></audio> |
 | 610 | í:hsle’ kʌ’ sheku usasnikil̲a̲’ | do you want more to drink? | <audio src="../audio/610.mp3" controls></audio> |
 | 366 | Hʌ thonʌ wá:yat ʌkatú:ni̲ | Yes, then I am going to make pie. | <audio src="../audio/366.mp3" controls></audio> |
+| 731 | yonuhwélhote’ káhik | peach | <audio src="../audio/731.mp3" controls></audio> |
+| 732 | káhik | fruit | <audio src="../audio/732.mp3" controls></audio> |
+| 724 | ʌtyatekhunyá:na’ kʌ | you and I will eat together | <audio src="../audio/724.mp3" controls></audio> |
 
 ## Tableware
 
@@ -127,6 +130,8 @@
 | 917 | wahyáku | Good fruit | <audio src="../audio/917.mp3" controls></audio> |
 | 919 | kʌ’niyohʌtésha̲’ | Short plant | <audio src="../audio/919.mp3" controls></audio> |
 | 920 | awʌhíhte̲’ | Strawberry | <audio src="../audio/920.mp3" controls></audio> |
+| 459 | Atsyók wakahyákha’ awʌhíhte’ ʌwá:tu tʌ:yakwatahyá:lite’ ʌyokalawe̲’ | I am going to pick strawberries afterwhile so that we can have some tonight | <audio src="../audio/459.mp3" controls></audio> |
+| 451 | tʌyakwatahyá:lihte̲’ | we will have strawberries | <audio src="../audio/451.mp3" controls></audio> |
 
 ## Fishing
 
@@ -143,3 +148,13 @@
 | 492 | hʌ  tatki’ wʌhnisli:yo̲ | yes if it is a nice day | <audio src="../audio/492.mp3" controls></audio> |
 | 493 | katsha’ kʌs nu: wahsayohkawinesa̲’ | where do you go to fish? | <audio src="../audio/493.mp3" controls></audio> |
 | 494 | tho ki' kahyʌhaku̲ | at the river | <audio src="../audio/494.mp3" controls></audio> |
+
+## Doughnuts
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 799 | oyá:n | doughnut | <audio src="../audio/799.mp3" controls></audio> |
+| 788 | Hʌ ʌkheyuni ki’ nén kheyuhwátʌha | yes, I’m going to make one for my niece | <audio src="../audio/788.mp3" controls></audio> |
+| 789 | ʌsatú:ni káti kʌ nén oyá:n kaya’tú:ni̲ | are you going to make a doughnut doll? | <audio src="../audio/789.mp3" controls></audio> |
+| 791 | satunya:ne’ kʌ nén oyá:n | are you going to make doughnuts? | <audio src="../audio/791.mp3" controls></audio> |
+| 798 | oyá:n kaya’túni̲ | doughnut doll | <audio src="../audio/798.mp3" controls></audio> |

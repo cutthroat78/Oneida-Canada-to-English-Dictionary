@@ -12,3 +12,5 @@
 | 50 | Takʌ’ nʌsa’nikulyak | Don't give up! | <audio src="../audio/50.mp3" controls></audio> |
 | 51 | Té:sek | You pick it up | <audio src="../audio/51.mp3" controls></audio> |
 | 52 | Hanyo! Hanyo! | Come on! Come on! | <audio src="../audio/52.mp3" controls></audio> |
+| 647 | owisá:ke tehutshikwa’eks | hockey | <audio src="../audio/647.mp3" controls></audio> |
+| 832 | satla’swiyóhak | good luck! | <audio src="../audio/832.mp3" controls></audio> |

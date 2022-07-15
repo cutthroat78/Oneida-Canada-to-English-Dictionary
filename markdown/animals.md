@@ -27,6 +27,11 @@
 | 801 | tsyoní:tu̲’ | beaver | <audio src="../audio/801.mp3" controls></audio> |
 | 802 | oná:kʌt | groundhog | <audio src="../audio/802.mp3" controls></audio> |
 | 803 | ska’nyúhsa̲’ | moose | <audio src="../audio/803.mp3" controls></audio> |
+| 768 | É:lhal khále’ takós ki’ swatyehlʌ kanúsku ni nákehle̲’ | sometimes the dog and cat live in the house | <audio src="../audio/768.mp3" controls></audio> |
+| 769 | Kátsha’ kayʌ kanúsku kutinakehle̲’ | which ones live in the house? | <audio src="../audio/769.mp3" controls></audio> |
+| 770 | Otyake’ ki’ kanúsku kutinakehle̲’ | some live in the house(animals) | <audio src="../audio/770.mp3" controls></audio> |
+| 771 | Kátsha’ káti’ né: nú: nikutinakehle’ nén katshé:nʌ̲: | where do the domestic animals live? | <audio src="../audio/771.mp3" controls></audio> |
+| 773 | katshé:nʌ̲ | domestic animals | <audio src="../audio/773.mp3" controls></audio> |
 
 ## Birds
 

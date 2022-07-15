@@ -6,6 +6,9 @@
 |---|---|---|---|
 | 117 | kakhwahele̲’ | feast | <audio src="../audio/117.mp3" controls></audio> |
 | 111 | Tah  tsi’ ki’ ní: tkakwaheleko nú: wahke̲’ | No! I am going where there’s lots to eat(or feast) | <audio src="../audio/111.mp3" controls></audio> |
+| 785 | í:kelhe’ ashuthu kʌ ʌtutasawʌ̲ | I thought they start at midnight | <audio src="../audio/785.mp3" controls></audio> |
+| 786 | Tah só:tsi’ yata’tusahuleni tsi’ niyolé: ashuthu̲ | no because it’s not over 'til midnight | <audio src="../audio/786.mp3" controls></audio> |
+| 733 | yeyʌthókwas | harvest | <audio src="../audio/733.mp3" controls></audio> |
 
 ## New Year's
 
@@ -16,6 +19,7 @@
 | 86 | Nʌ kʌ á:se yohslá:te̲ | Is it New Year's now? | <audio src="../audio/86.mp3" controls></audio> |
 | 87 | a:sé yohsláte̲ | new year | <audio src="../audio/87.mp3" controls></audio> |
 | 784 | á:se yohslá:te̲ | new year | <audio src="../audio/784.mp3" controls></audio> |
+| 787 | Wahsatlʌnayʌna kʌ nén á:se yohslá:te yo’kalau | are you going to church on new year’s eve? | <audio src="../audio/787.mp3" controls></audio> |
 
 ## The Fair
 
@@ -114,3 +118,24 @@
 | 124 | oskanú:tu̲ | reindeer | <audio src="../audio/124.mp3" controls></audio> |
 | 125 | teyutatá:wihe̲’ | exchanging gifts | <audio src="../audio/125.mp3" controls></audio> |
 | 126 | wʌhnislo:wán | big day or Christmas | <audio src="../audio/126.mp3" controls></audio> |
+| 638 | Tekyatakhétsta’ ki’ nén tekniksa | The two girls are skating | <audio src="../audio/638.mp3" controls></audio> |
+| 634 | Owisá:ke né: tehonatwiskwa’tuháti latiksa’shúh̲a̲ | The children are sliding on the ice. | <audio src="../audio/634.mp3" controls></audio> |
+| 635 | Wahsatlolóka’ kʌ owisá:ke tehutshikwa’eks | Are you going to watch the hockey game? | <audio src="../audio/635.mp3" controls></audio> |
+| 636 | Ni:yót né: tehutatenyʌtoya’aks latiksa’shúha̲ | Look at the children throwing snow at each other. | <audio src="../audio/636.mp3" controls></audio> |
+| 637 | Onutahalá:ke ki’ né: tehute’slehtahélh̲a̲’ | They are sleigh riding on the hill | <audio src="../audio/637.mp3" controls></audio> |
+| 645 | tehute’slehtahélha̲’ | sleigh riding | <audio src="../audio/645.mp3" controls></audio> |
+| 646 | tehutatenyʌtóya’aks | they are throwing snow at each other | <audio src="../audio/646.mp3" controls></audio> |
+| 648 | tehuta’kétsta̲’ | skating | <audio src="../audio/648.mp3" controls></audio> |
+| 649 | yotsistóhkwal̲e̲’ | star | <audio src="../audio/649.mp3" controls></audio> |
+| 650 | tʌtwatatawiní | (we all) exchange gifts (with each other) | <audio src="../audio/650.mp3" controls></audio> |
+| 651 | shako:wíhe̲’ | santa claus (he who gives) | <audio src="../audio/651.mp3" controls></audio> |
+| 652 | skʌ:nʌ́: kʌhák tsi’ yohutsya:té̲ | there is peace on earth | <audio src="../audio/652.mp3" controls></audio> |
+| 653 | Wʌhnislowá:nʌ ka:lúte̲’ | Christmas tree | <audio src="../audio/653.mp3" controls></audio> |
+| 654 | Yotshanunyát tsi’ wʌhnislowá:nʌ̲ | Merry Christmas | <audio src="../audio/654.mp3" controls></audio> |
+| 655 | wʌhnislowá:nʌ ka’íkʌ wʌhnisla:té̲: | Christmas (this) day | <audio src="../audio/655.mp3" controls></audio> |
+| 656 | wʌhnislowá:nʌ kahyatúhsel̲i̲ | Christmas card | <audio src="../audio/656.mp3" controls></audio> |
+| 657 | teyonutakli:tsale’ atʌ́:nis | candy cane | <audio src="../audio/657.mp3" controls></audio> |
+| 658 | kayatuhsli tekanuwalotálh̲u̲ | paper chain | <audio src="../audio/658.mp3" controls></audio> |
+| 659 | kwayatalukwas kayatuhsli | cut the paper | <audio src="../audio/659.mp3" controls></audio> |
+| 660 | kwayatalukwas kayatuhsli  Onʌyota’á:ka thokʌ́ yá:t | cutting the paper (that says Oneida) | <audio src="../audio/660.mp3" controls></audio> |
+| 661 | yela’natakwa kayatuhsel̲i̲ | tape the papers | <audio src="../audio/661.mp3" controls></audio> |

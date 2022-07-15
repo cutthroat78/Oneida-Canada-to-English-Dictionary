@@ -29,7 +29,8 @@
 | 68 | Náhte’ káti’ nén thé:tʌ̲ | What was yesterday? | <audio src="../audio/68.mp3" controls></audio> |
 | 69 | Hʌ nu’uwa’ nén wiskatút | Yes, today is Friday. | <audio src="../audio/69.mp3" controls></audio> |
 | 70 | Sanúhte’ kʌ náhte’ nu’uwa’ niwʌhnisló:tʌ̲ | Do you know what kind of day it is today? | <audio src="../audio/70.mp3" controls></audio> |
-
+| 452 | ʌyokalawe̲’ | tonight | <audio src="../audio/452.mp3" controls></audio> |
+| 551 | tho’nʌ: | next | <audio src="../audio/551.mp3" controls></audio> |
 
 ## Days of the Week
 
@@ -94,3 +95,9 @@
 | 498 | kohsla’kekha’ atyá:tawiht | winter jacket | <audio src="../audio/498.mp3" controls></audio> |
 | 499 | kohsla’kekha’ a’nhuskwál̲h̲a̲’ | winter pants | <audio src="../audio/499.mp3" controls></audio> |
 | 723 | tho ni yót tsi’ satsluni yotholé nu’u:wa̲’ | you dress warm it’s cold today | <audio src="../audio/723.mp3" controls></audio> |
+| 639 | Tsi’ na’teyowihskwat owaháke̲ | The road is slippery | <audio src="../audio/639.mp3" controls></audio> |
+| 640 | Tsi’ na’teyohwísute’ atste̲ | It is icy outside | <audio src="../audio/640.mp3" controls></audio> |
+| 641 | yonu’uti | snow pellets | <audio src="../audio/641.mp3" controls></audio> |
+| 642 | yowisúti | ice pellets | <audio src="../audio/642.mp3" controls></audio> |
+| 643 | teyohwískwat | it is slippery | <audio src="../audio/643.mp3" controls></audio> |
+| 644 | teyohwísute̲’ | it is icy | <audio src="../audio/644.mp3" controls></audio> |
