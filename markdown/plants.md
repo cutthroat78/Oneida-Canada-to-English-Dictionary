@@ -30,6 +30,13 @@
 | 328 | o:nháhte̲’ | unattached branch | <audio src="../audio/328.mp3" controls></audio> |
 | 329 | yo'nháhtot̲e̲’ | attached branch | <audio src="../audio/329.mp3" controls></audio> |
 | 330 | Takʌ só:tsi’ akta nyʌhʌse’ tsi’ tkalutóte’ nén aslók | don’t go near the thorn tree. | <audio src="../audio/330.mp3" controls></audio> |
+| 53 | Onkwat káti kʌ nén siksik otahsa̲’ | Is the mullen used for medicine? | <audio src="../audio/53.mp3" controls></audio> |
+| 54 | Náhte’ né: onukwat nén olhohte’kó: | What do you use burdock as a medicine for? | <audio src="../audio/54.mp3" controls></audio> |
+| 55 | Ihseks kʌ nise: nén onitshewʌ́:ta̲’ | Do you eat milkweed? | <audio src="../audio/55.mp3" controls></audio> |
+| 56 | Seká:se’ kʌ nén oneklʌta̲’ | Do you like morels? | <audio src="../audio/56.mp3" controls></audio> |
+| 57 | Se’nikúlalak tá:kʌ só:tsi yʌsatla’nʌtak tsi’ yotú:ni nén yakohʌ:tálahse̲ | Watch, don’t get to close to the poison ivy | <audio src="../audio/57.mp3" controls></audio> |
+| 58 | Oyu’kwa’uwe né: lutsta’ nén ukwehuwe nʌ tʌhatitalʌ nén shukwaya’tisu’ | Native people use Indian tobacco when they talk to the Creator. | <audio src="../audio/58.mp3" controls></audio> |
+| 59 | Teyotskalatko: | Smartweed | <audio src="../audio/59.mp3" controls></audio> |
 
 ## Trees
 

@@ -31,6 +31,9 @@
 | 233 | ukwehú:w̲e̲ | original person | <audio src="../audio/233.mp3" controls></audio> |
 | 234 | Kátsha' nu: tesnákehl̲e̲ | Where do you reside? | <audio src="../audio/234.mp3" controls></audio> |
 | 797 | lutlʌnayʌnese̲’ | they go to church | <audio src="../audio/797.mp3" controls></audio> |
+| 64 | Wahsatlʌnayʌna káti’ kʌ nén yautatókʌhtan̲e̲’ | Are you going to church on Sunday? | <audio src="../audio/64.mp3" controls></audio> |
+| 65 | Tah  Ʌtakta ki’ nʌ thoyʌhʌ́ke̲ | No, I will go on Saturday. | <audio src="../audio/65.mp3" controls></audio> |
+| 66 | Kanatá:ke kʌ wahse’ nén ʌyólhʌn̲e̲’ | Are you going to town tomorrow? | <audio src="../audio/66.mp3" controls></audio> |
 
 ## Being Somewhere
 

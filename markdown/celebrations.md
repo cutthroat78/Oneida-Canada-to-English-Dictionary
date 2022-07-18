@@ -9,6 +9,17 @@
 | 785 | í:kelhe’ ashuthu kʌ ʌtutasawʌ̲ | I thought they start at midnight | <audio src="../audio/785.mp3" controls></audio> |
 | 786 | Tah só:tsi’ yata’tusahuleni tsi’ niyolé: ashuthu̲ | no because it’s not over 'til midnight | <audio src="../audio/786.mp3" controls></audio> |
 | 733 | yeyʌthókwas | harvest | <audio src="../audio/733.mp3" controls></audio> |
+| 192 | Thokʌ wahse’ tsi’ tehútkwa̲’ | Are you going to where they are dancing? | <audio src="../audio/192.mp3" controls></audio> |
+| 193 | Kwa’nyohkwi: satshá:nit | Boy, you are a good worker! | <audio src="../audio/193.mp3" controls></audio> |
+| 194 | Wakheya’takenhása’ nén kutikhú:ni̲h̲e̲’ | I am going to help the cooks. | <audio src="../audio/194.mp3" controls></audio> |
+| 195 | Wa’katahusatata’ ki’ nén kalihwí:yo̲ | I am going to listen to the good message. | <audio src="../audio/195.mp3" controls></audio> |
+| 197 | Kanuhsésne kʌ wáhse̲’ | Are you going to the longhouse? | <audio src="../audio/197.mp3" controls></audio> |
+| 199 | kakhwa’shú:h̲a̲ | different kinds of foods | <audio src="../audio/199.mp3" controls></audio> |
+| 200 | kutikhu:níhe̲’ | the cooks | <audio src="../audio/200.mp3" controls></audio> |
+| 201 | tehútkwa̲’ | dancers | <audio src="../audio/201.mp3" controls></audio> |
+| 203 | kalihwíy̲o̲ | good message | <audio src="../audio/203.mp3" controls></audio> |
+| 204 | kanushésn̲e̲ | longhouse | <audio src="../audio/204.mp3" controls></audio> |
+| 205 | kʌtyóhkwa̲ | people | <audio src="../audio/205.mp3" controls></audio> |
 
 ## New Year's
 

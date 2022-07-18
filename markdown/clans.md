@@ -18,3 +18,4 @@
 | 416 | Hao’  ohkwá:li  a’nó:wal khále’ othayú:ni̲ | Ok, bear, turtle and wolf | <audio src="../audio/416.mp3" controls></audio> |
 | 417 | Sanúhte’ káti’ kʌ tsi’ sanulha tsi’ nityakotwatsilí:nu né: katáti | Do you know that you follow your mother’s line? | <audio src="../audio/417.mp3" controls></audio> |
 | 418 | Teyotuhutsyu kwi né: ahonanuhteke’ ka’i:kʌ nén ukwahwá:tsile̲’ | Our families should know this | <audio src="../audio/418.mp3" controls></audio> |
+| 903 | a'no:wál | turtle | <audio src="../audio/903.mp3" controls></audio> |

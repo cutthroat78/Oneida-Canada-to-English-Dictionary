@@ -99,6 +99,12 @@
 | 731 | yonuhwélhote’ káhik | peach | <audio src="../audio/731.mp3" controls></audio> |
 | 732 | káhik | fruit | <audio src="../audio/732.mp3" controls></audio> |
 | 724 | ʌtyatekhunyá:na’ kʌ | you and I will eat together | <audio src="../audio/724.mp3" controls></audio> |
+| 725 | í:sehle’ kʌ a:shatna’talutʌ swahyó:wane’ wá:yat | do you want to bake an apple pie? | <audio src="../audio/725.mp3" controls></audio> |
+| 727 | Thó: nikana’talá:ke̲ | how many pies? | <audio src="../audio/727.mp3" controls></audio> |
+| 728 | Wé:ne kwí: kayé: nikana’talá:ke̲ | I guess four pies | <audio src="../audio/728.mp3" controls></audio> |
+| 729 | Né: kʌ kwahotoku onutakli’ yʌsá:ti̲ | will you make it with real sugar? | <audio src="../audio/729.mp3" controls></audio> |
+| 345 | e:lí̲ | cherry | <audio src="../audio/345.mp3" controls></audio> |
+| 342 | wíhsu̲’ | plum | <audio src="../audio/342.mp3" controls></audio> |
 
 ## Tableware
 
@@ -158,3 +164,47 @@
 | 789 | ʌsatú:ni káti kʌ nén oyá:n kaya’tú:ni̲ | are you going to make a doughnut doll? | <audio src="../audio/789.mp3" controls></audio> |
 | 791 | satunya:ne’ kʌ nén oyá:n | are you going to make doughnuts? | <audio src="../audio/791.mp3" controls></audio> |
 | 798 | oyá:n kaya’túni̲ | doughnut doll | <audio src="../audio/798.mp3" controls></audio> |
+
+## Picking Berries
+
+| ID | Oneida | English | Audio File |
+|---|---|---|---|
+| 296 | Nʌ kʌ thoha nʌ: ʌwahyʌtane̲’ | Are the berries almost done? | <audio src="../audio/296.mp3" controls></audio> |
+| 297 | Wé:ne ʌwá:tu é:so ʌkayako̲ | I guess I can pick a lot of berries. | <audio src="../audio/297.mp3" controls></audio> |
+| 298 | Khále’ niwahyowanʌse̲’ | And the berries are real big. | <audio src="../audio/298.mp3" controls></audio> |
+| 299 | Tahnu wé:ni tsi’ niyotahyú:ni̲ | It looks like there are a lot of berries. | <audio src="../audio/299.mp3" controls></audio> |
+| 300 | Ni:yót ni:yohahe:súse̲’ | Look at the long rows | <audio src="../audio/300.mp3" controls></audio> |
+| 301 | Hʌ: tahnu: tsi’ nikahʌtowá:n | Yes, and it is a big field | <audio src="../audio/301.mp3" controls></audio> |
+| 302 | Wahsatkatho’ kʌ i:si’ nukwa tkahʌtayʌ nén awʌhihte̲’ | Do you see the strawberry field over there? | <audio src="../audio/302.mp3" controls></audio> |
+| 303 | ʌswisto:kwanuste̲’ | freeze them | <audio src="../audio/303.mp3" controls></audio> |
+| 304 | kʌ’ niwahya:sa’ | small berries | <audio src="../audio/304.mp3" controls></audio> |
+| 305 | uyʌ:tane̲’ | berries are done | <audio src="../audio/305.mp3" controls></audio> |
+| 306 | teyohyahyotsis | sour fruit | <audio src="../audio/306.mp3" controls></audio> |
+| 307 | ʌsata:yálite̲ | can fruit | <audio src="../audio/307.mp3" controls></audio> |
+| 308 | wa’katnan̲e̲’ | I filled (a basket) | <audio src="../audio/308.mp3" controls></audio> |
+| 309 | ashé:nute̲ | basket | <audio src="../audio/309.mp3" controls></audio> |
+| 310 | yohahe:súse̲̲’ | long rows | <audio src="../audio/310.mp3" controls></audio> |
+| 311 | Kahʌtowá:n | big field | <audio src="../audio/311.mp3" controls></audio> |
+| 312 | kahʌ:táyʌ̲ | field | <audio src="../audio/312.mp3" controls></audio> |
+| 313 | Wé:ne tsi’ nʌ kukwité:ne tsi’ nʌ é:so yontlatute’ nén kalutó:tu̲ | it must be springtime because there are a lot of leaves on the trees. | <audio src="../audio/313.mp3" controls></audio> |
+| 314 | O’nu:wa: kʌ ʌsátste’ nén ʌsata’slú:ni̲ | are you going to use the strips of black ash when you make a basket? | <audio src="../audio/314.mp3" controls></audio> |
+| 315 | Takʌ ʌtesahítyak tho ká:yʌ nén o:nhahte̲’ | don’t trip on the branch laying there. | <audio src="../audio/315.mp3" controls></audio> |
+| 316 | Wé:ne tsi’ latunyá:ne’ nén wáhta óshes | I guess he’s going to make maple syrup | <audio src="../audio/316.mp3" controls></audio> |
+| 317 | Laksótha wahahkalotʌ nén wáhta kalútote̲’ | my grandfather tapped the maple tree. | <audio src="../audio/317.mp3" controls></audio> |
+| 318 | Né: kʌ nén kwah ok thikuné:se’ ótsitsi | is it the wild flowers? | <audio src="../audio/318.mp3" controls></audio> |
+| 319 | Hao’ tsi’ kalhayʌ’ yeheten tnitsi’tsyakóna̲ | let’s go to the forest to gather flowers. | <audio src="../audio/319.mp3" controls></audio> |
+| 369 | Náhte’ né: yotlihute̲ | What is it used for? | <audio src="../audio/369.mp3" controls></audio> |
+| 381 | Hʌ nok tsi’ yah ki’ nuwʌtu te’wake’waláku | yes but I have never eaten the meat | <audio src="../audio/381.mp3" controls></audio> |
+| 453 | ʌkatá:yalihte̲’ | for me to can | <audio src="../audio/453.mp3" controls></audio> |
+| 454 | ʌsata:yalíte̲’ | for you to can | <audio src="../audio/454.mp3" controls></audio> |
+| 332 | Ok nén wihsu ʌsatayalíte’ kʌ nʌ né: | what about the plums, are you going to can them? | <audio src="../audio/332.mp3" controls></audio> |
+| 333 | Hao’ ki’wah tho’nʌ ʌtyatayálite̲’ | ok then we will can it. | <audio src="../audio/333.mp3" controls></audio> |
+| 456 | kawistokwanʌsta̲ | freezer | <audio src="../audio/456.mp3" controls></audio> |
+| 457 | ʌkwisto:kwanʌste̲’ | I will freeze it | <audio src="../audio/457.mp3" controls></audio> |
+| 458 | kʌtyohkwá:nʌ̲ | a lot of people | <audio src="../audio/458.mp3" controls></audio> |
+| 460 | Okna’ kʌ yohyáli̲ | are the berries ripe already? | <audio src="../audio/460.mp3" controls></audio> |
+| 461 | Hʌ́: nʌki’ yohyáli̲ | Yes the berries are ripe | <audio src="../audio/461.mp3" controls></audio> |
+| 462 | Wé:ni kwi: ʌyolhʌne’ ni: ʌkahyakha I:sʌ takatahyalihte̲’ | I guess I will go and pick berries tomorrow so I can have some berries too. | <audio src="../audio/462.mp3" controls></audio> |
+| 463 | I:kelhe’ sʌ tohka nikanutotslake akwistokwanʌste’ ok’ni’i:se̲’ | I want to freeze a few boxes, what about you? | <audio src="../audio/463.mp3" controls></audio> |
+| 464 | Yah ki' ni: teyukwáyʌ kawisto’kwanʌsta̲  Wé:ni kwi: ʌkatá:yalihte’ ni’ i: | we don't have a freezer, so I have to can mine | <audio src="../audio/464.mp3" controls></audio> |
+| 465 | Kʌtyohkwanʌ kyu’utewí:ne latiwisto’kwanʌsta tsyok nahohte̲ | I guess a lot of people freeze almost anything | <audio src="../audio/465.mp3" controls></audio> |

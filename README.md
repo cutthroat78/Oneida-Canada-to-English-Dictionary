@@ -10,5 +10,4 @@ main.py is the python program I used to generate the csv file. Change the file v
 The audio folder is full of mp3 recordings of the Oneida words and phrases/side in the csv and markdown wordlist. To find the recording of a Oneida word/phrase, just look for a file with the same ID as the Oneida word/phrase
 
 # To Do
-- [ ] Find better theme or figure out how to change font to helvetica or arial
-- [ ] Add Categories column to all.md and add categories to each entry
+- Find better theme or figure out how to change font to helvetica or arial

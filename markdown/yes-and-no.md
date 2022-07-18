@@ -1,6 +1,5 @@
 [Back to Categories](../index.md)
 
-
 # Yes and No
 
 | ID | Oneida | English | Audio File |
