@@ -8,3 +8,6 @@ CSV is just all of the wordlist, while markdown has all and categories
 main.py is the python program I used to generate the csv file. Change the file variable in the file to change the output file name and change the URL for the page/category for it to scrape
 
 The audio folder is full of mp3 recordings of the Oneida words and phrases/side in the csv and markdown wordlist. To find the recording of a Oneida word/phrase, just look for a file with the same ID as the Oneida word/phrase
+
+# To Do
+- Add the olcc quizlet decks
