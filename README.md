@@ -59,4 +59,5 @@ The audio folder is full of mp3 recordings of the Oneida words and phrases/side 
 - [Hunting](markdown/hunting.md)
 - [Misc.](markdown/misc.md)
 
-All words & phrases on this website comes from this [website](https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/)
+# Sources:
+1. [oneidalanguage.ca - Oneida Words & Phrases](https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/)
