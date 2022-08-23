@@ -1,7 +1,4 @@
-# Oneida (Canada) Wordlist and Phraselist
-[Github Pages](https://cutthroat78.github.io/Oneida-Canada-Wordlist-and-Phraselist)
-
-A CSV and markdown Oneida (Canada) wordlist from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
+<!---A CSV and markdown Oneida (Canada) wordlist from using the All Category on this webpage https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/ 
 
 CSV is just all of the wordlist, while markdown has all and categories
 
@@ -11,3 +8,6 @@ The audio folder is full of mp3 recordings of the Oneida words and phrases/side 
 
 # To Do
 - Add the olcc quizlet decks
+--->
+
+test
